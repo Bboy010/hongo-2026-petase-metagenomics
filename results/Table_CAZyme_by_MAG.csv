@@ -1,0 +1,232 @@
+Bin,Label,Genus,Species,Class,Count
+Bietry_1.10,Bietry_1.10 (Psychrobacter),Psychrobacter,Psychrobacter raelei,AA,3
+Bietry_1.10,Bietry_1.10 (Psychrobacter),Psychrobacter,Psychrobacter raelei,CE,3
+Bietry_1.10,Bietry_1.10 (Psychrobacter),Psychrobacter,Psychrobacter raelei,GH,8
+Bietry_1.10,Bietry_1.10 (Psychrobacter),Psychrobacter,Psychrobacter raelei,GT,8
+Bietry_1.11,Bietry_1.11 (Paraclostridium),Paraclostridium,NA,AA,1
+Bietry_1.11,Bietry_1.11 (Paraclostridium),Paraclostridium,NA,CBM,3
+Bietry_1.11,Bietry_1.11 (Paraclostridium),Paraclostridium,NA,CE,4
+Bietry_1.11,Bietry_1.11 (Paraclostridium),Paraclostridium,NA,GH,22
+Bietry_1.11,Bietry_1.11 (Paraclostridium),Paraclostridium,NA,GT,72
+Bietry_1.11,Bietry_1.11 (Paraclostridium),Paraclostridium,NA,PL,2
+Bietry_1.4,Bietry_1.4 (Unknown),NA,NA,AA,2
+Bietry_1.4,Bietry_1.4 (Unknown),NA,NA,CBM,4
+Bietry_1.4,Bietry_1.4 (Unknown),NA,NA,CE,5
+Bietry_1.4,Bietry_1.4 (Unknown),NA,NA,GH,17
+Bietry_1.4,Bietry_1.4 (Unknown),NA,NA,GT,12
+Bietry_1.6,Bietry_1.6 (Celeribacter),Celeribacter,NA,AA,4
+Bietry_1.6,Bietry_1.6 (Celeribacter),Celeribacter,NA,CBM,1
+Bietry_1.6,Bietry_1.6 (Celeribacter),Celeribacter,NA,CE,2
+Bietry_1.6,Bietry_1.6 (Celeribacter),Celeribacter,NA,GH,18
+Bietry_1.6,Bietry_1.6 (Celeribacter),Celeribacter,NA,GT,30
+Bietry_1.8,Bietry_1.8 (Psychrobacter),Psychrobacter,Psychrobacter pasteurii,AA,4
+Bietry_1.8,Bietry_1.8 (Psychrobacter),Psychrobacter,Psychrobacter pasteurii,CE,3
+Bietry_1.8,Bietry_1.8 (Psychrobacter),Psychrobacter,Psychrobacter pasteurii,GH,6
+Bietry_1.8,Bietry_1.8 (Psychrobacter),Psychrobacter,Psychrobacter pasteurii,GT,13
+Bietry_2.20,Bietry_2.20 (Thioclava),Thioclava,NA,AA,13
+Bietry_2.20,Bietry_2.20 (Thioclava),Thioclava,NA,CBM,2
+Bietry_2.20,Bietry_2.20 (Thioclava),Thioclava,NA,CE,7
+Bietry_2.20,Bietry_2.20 (Thioclava),Thioclava,NA,GH,34
+Bietry_2.20,Bietry_2.20 (Thioclava),Thioclava,NA,GT,50
+Bietry_2.21,Bietry_2.21 (Owenweeksia),Owenweeksia,NA,AA,3
+Bietry_2.21,Bietry_2.21 (Owenweeksia),Owenweeksia,NA,CBM,1
+Bietry_2.21,Bietry_2.21 (Owenweeksia),Owenweeksia,NA,CE,10
+Bietry_2.21,Bietry_2.21 (Owenweeksia),Owenweeksia,NA,GH,15
+Bietry_2.21,Bietry_2.21 (Owenweeksia),Owenweeksia,NA,GT,54
+Bietry_2.21,Bietry_2.21 (Owenweeksia),Owenweeksia,NA,PL,2
+Bietry_2.8,Bietry_2.8 (Psychrobacter),Psychrobacter,NA,AA,4
+Bietry_2.8,Bietry_2.8 (Psychrobacter),Psychrobacter,NA,CE,1
+Bietry_2.8,Bietry_2.8 (Psychrobacter),Psychrobacter,NA,GH,6
+Bietry_2.8,Bietry_2.8 (Psychrobacter),Psychrobacter,NA,GT,8
+Bietry_3.10,Bietry_3.10 (Unknown),NA,NA,AA,2
+Bietry_3.10,Bietry_3.10 (Unknown),NA,NA,CBM,3
+Bietry_3.10,Bietry_3.10 (Unknown),NA,NA,CE,8
+Bietry_3.10,Bietry_3.10 (Unknown),NA,NA,GH,18
+Bietry_3.10,Bietry_3.10 (Unknown),NA,NA,GT,30
+Bietry_3.15,Bietry_3.15 (UBA1268),UBA1268,UBA1268 sp009919445,AA,1
+Bietry_3.15,Bietry_3.15 (UBA1268),UBA1268,UBA1268 sp009919445,CBM,7
+Bietry_3.15,Bietry_3.15 (UBA1268),UBA1268,UBA1268 sp009919445,CE,9
+Bietry_3.15,Bietry_3.15 (UBA1268),UBA1268,UBA1268 sp009919445,GH,36
+Bietry_3.15,Bietry_3.15 (UBA1268),UBA1268,UBA1268 sp009919445,GT,27
+Bietry_3.17,Bietry_3.17 (SYFI01),SYFI01,SYFI01 sp938017905,AA,3
+Bietry_3.17,Bietry_3.17 (SYFI01),SYFI01,SYFI01 sp938017905,CBM,1
+Bietry_3.17,Bietry_3.17 (SYFI01),SYFI01,SYFI01 sp938017905,CE,5
+Bietry_3.17,Bietry_3.17 (SYFI01),SYFI01,SYFI01 sp938017905,GH,9
+Bietry_3.17,Bietry_3.17 (SYFI01),SYFI01,SYFI01 sp938017905,GT,15
+Bietry_3.19,Bietry_3.19 (Aequorivita),Aequorivita,Aequorivita sp002715485,CE,5
+Bietry_3.19,Bietry_3.19 (Aequorivita),Aequorivita,Aequorivita sp002715485,GH,5
+Bietry_3.19,Bietry_3.19 (Aequorivita),Aequorivita,Aequorivita sp002715485,GT,11
+Bietry_3.26,Bietry_3.26 (Loktanella),Loktanella,Loktanella sp001420005,AA,7
+Bietry_3.26,Bietry_3.26 (Loktanella),Loktanella,Loktanella sp001420005,CBM,2
+Bietry_3.26,Bietry_3.26 (Loktanella),Loktanella,Loktanella sp001420005,CE,5
+Bietry_3.26,Bietry_3.26 (Loktanella),Loktanella,Loktanella sp001420005,GH,30
+Bietry_3.26,Bietry_3.26 (Loktanella),Loktanella,Loktanella sp001420005,GT,24
+Bietry_3.3,Bietry_3.3 (Pontimonas),Pontimonas,NA,AA,2
+Bietry_3.3,Bietry_3.3 (Pontimonas),Pontimonas,NA,GH,8
+Bietry_3.3,Bietry_3.3 (Pontimonas),Pontimonas,NA,GT,7
+Bietry_3.36,Bietry_3.36 (Psychrobacter),Psychrobacter,Psychrobacter celer,AA,1
+Bietry_3.36,Bietry_3.36 (Psychrobacter),Psychrobacter,Psychrobacter celer,GT,4
+Bietry_3.40,Bietry_3.40 (M55B157),M55B157,NA,AA,7
+Bietry_3.40,Bietry_3.40 (M55B157),M55B157,NA,CE,6
+Bietry_3.40,Bietry_3.40 (M55B157),M55B157,NA,GH,18
+Bietry_3.40,Bietry_3.40 (M55B157),M55B157,NA,GT,24
+Bietry_3.5,Bietry_3.5 (Casp-actino5),Casp-actino5,NA,CBM,2
+Bietry_3.5,Bietry_3.5 (Casp-actino5),Casp-actino5,NA,CE,2
+Bietry_3.5,Bietry_3.5 (Casp-actino5),Casp-actino5,NA,GH,12
+Bietry_3.5,Bietry_3.5 (Casp-actino5),Casp-actino5,NA,GT,13
+Bietry_3.6,Bietry_3.6 (Micrococcus),Micrococcus,Micrococcus endophyticus,CBM,1
+Bietry_3.6,Bietry_3.6 (Micrococcus),Micrococcus,Micrococcus endophyticus,CE,2
+Bietry_3.6,Bietry_3.6 (Micrococcus),Micrococcus,Micrococcus endophyticus,GH,8
+Bietry_3.6,Bietry_3.6 (Micrococcus),Micrococcus,Micrococcus endophyticus,GT,11
+Bietry_3.9,Bietry_3.9 (Dietzia),Dietzia,Dietzia maris,AA,5
+Bietry_3.9,Bietry_3.9 (Dietzia),Dietzia,Dietzia maris,CBM,3
+Bietry_3.9,Bietry_3.9 (Dietzia),Dietzia,Dietzia maris,CE,13
+Bietry_3.9,Bietry_3.9 (Dietzia),Dietzia,Dietzia maris,GH,24
+Bietry_3.9,Bietry_3.9 (Dietzia),Dietzia,Dietzia maris,GT,36
+Kassembie_1.3,Kassembie_1.3 (Telluria),Telluria,NA,AA,12
+Kassembie_1.3,Kassembie_1.3 (Telluria),Telluria,NA,CE,16
+Kassembie_1.3,Kassembie_1.3 (Telluria),Telluria,NA,GH,46
+Kassembie_1.3,Kassembie_1.3 (Telluria),Telluria,NA,GT,57
+Kassembie_1.3,Kassembie_1.3 (Telluria),Telluria,NA,PL,4
+Kassembie_2.10,Kassembie_2.10 (Polynucleobacter),Polynucleobacter,NA,AA,7
+Kassembie_2.10,Kassembie_2.10 (Polynucleobacter),Polynucleobacter,NA,CE,1
+Kassembie_2.10,Kassembie_2.10 (Polynucleobacter),Polynucleobacter,NA,GH,6
+Kassembie_2.10,Kassembie_2.10 (Polynucleobacter),Polynucleobacter,NA,GT,51
+Kassembie_2.13,Kassembie_2.13 (Rhodoferax_C),Rhodoferax_C,NA,AA,6
+Kassembie_2.13,Kassembie_2.13 (Rhodoferax_C),Rhodoferax_C,NA,CBM,1
+Kassembie_2.13,Kassembie_2.13 (Rhodoferax_C),Rhodoferax_C,NA,CE,8
+Kassembie_2.13,Kassembie_2.13 (Rhodoferax_C),Rhodoferax_C,NA,GH,16
+Kassembie_2.13,Kassembie_2.13 (Rhodoferax_C),Rhodoferax_C,NA,GT,37
+Kassembie_2.16,Kassembie_2.16 (Acinetobacter),Acinetobacter,Acinetobacter pittii,AA,10
+Kassembie_2.16,Kassembie_2.16 (Acinetobacter),Acinetobacter,Acinetobacter pittii,CE,7
+Kassembie_2.16,Kassembie_2.16 (Acinetobacter),Acinetobacter,Acinetobacter pittii,GH,15
+Kassembie_2.16,Kassembie_2.16 (Acinetobacter),Acinetobacter,Acinetobacter pittii,GT,20
+Kassembie_2.19,Kassembie_2.19 (QWPN01),QWPN01,NA,CBM,5
+Kassembie_2.19,Kassembie_2.19 (QWPN01),QWPN01,NA,CE,4
+Kassembie_2.19,Kassembie_2.19 (QWPN01),QWPN01,NA,GH,18
+Kassembie_2.19,Kassembie_2.19 (QWPN01),QWPN01,NA,GT,40
+Kassembie_2.19,Kassembie_2.19 (QWPN01),QWPN01,NA,PL,2
+Kassembie_2.2,Kassembie_2.2 (Flavobacterium),Flavobacterium,NA,AA,1
+Kassembie_2.2,Kassembie_2.2 (Flavobacterium),Flavobacterium,NA,CBM,3
+Kassembie_2.2,Kassembie_2.2 (Flavobacterium),Flavobacterium,NA,CE,14
+Kassembie_2.2,Kassembie_2.2 (Flavobacterium),Flavobacterium,NA,GH,29
+Kassembie_2.2,Kassembie_2.2 (Flavobacterium),Flavobacterium,NA,GT,42
+Kassembie_2.20,Kassembie_2.20 (Sediminibacterium),Sediminibacterium,NA,AA,5
+Kassembie_2.20,Kassembie_2.20 (Sediminibacterium),Sediminibacterium,NA,CBM,3
+Kassembie_2.20,Kassembie_2.20 (Sediminibacterium),Sediminibacterium,NA,CE,6
+Kassembie_2.20,Kassembie_2.20 (Sediminibacterium),Sediminibacterium,NA,GH,32
+Kassembie_2.20,Kassembie_2.20 (Sediminibacterium),Sediminibacterium,NA,GT,26
+Kassembie_2.20,Kassembie_2.20 (Sediminibacterium),Sediminibacterium,NA,PL,1
+Kassembie_2.21,Kassembie_2.21 (Sphingomonas),Sphingomonas,Sphingomonas paucimobilis,AA,4
+Kassembie_2.21,Kassembie_2.21 (Sphingomonas),Sphingomonas,Sphingomonas paucimobilis,CBM,10
+Kassembie_2.21,Kassembie_2.21 (Sphingomonas),Sphingomonas,Sphingomonas paucimobilis,CE,9
+Kassembie_2.21,Kassembie_2.21 (Sphingomonas),Sphingomonas,Sphingomonas paucimobilis,GH,95
+Kassembie_2.21,Kassembie_2.21 (Sphingomonas),Sphingomonas,Sphingomonas paucimobilis,GT,48
+Kassembie_2.24,Kassembie_2.24 (CAIQDX01),CAIQDX01,NA,AA,3
+Kassembie_2.24,Kassembie_2.24 (CAIQDX01),CAIQDX01,NA,CBM,11
+Kassembie_2.24,Kassembie_2.24 (CAIQDX01),CAIQDX01,NA,CE,26
+Kassembie_2.24,Kassembie_2.24 (CAIQDX01),CAIQDX01,NA,GH,85
+Kassembie_2.24,Kassembie_2.24 (CAIQDX01),CAIQDX01,NA,GT,72
+Kassembie_2.24,Kassembie_2.24 (CAIQDX01),CAIQDX01,NA,PL,4
+Kassembie_2.25,Kassembie_2.25 (JBEAPM01),JBEAPM01,NA,AA,2
+Kassembie_2.25,Kassembie_2.25 (JBEAPM01),JBEAPM01,NA,CBM,2
+Kassembie_2.25,Kassembie_2.25 (JBEAPM01),JBEAPM01,NA,CE,8
+Kassembie_2.25,Kassembie_2.25 (JBEAPM01),JBEAPM01,NA,GH,24
+Kassembie_2.25,Kassembie_2.25 (JBEAPM01),JBEAPM01,NA,GT,72
+Kassembie_2.28,Kassembie_2.28 (Rhodoferax_C),Rhodoferax_C,NA,AA,10
+Kassembie_2.28,Kassembie_2.28 (Rhodoferax_C),Rhodoferax_C,NA,CBM,2
+Kassembie_2.28,Kassembie_2.28 (Rhodoferax_C),Rhodoferax_C,NA,CE,5
+Kassembie_2.28,Kassembie_2.28 (Rhodoferax_C),Rhodoferax_C,NA,GH,16
+Kassembie_2.28,Kassembie_2.28 (Rhodoferax_C),Rhodoferax_C,NA,GT,30
+Kassembie_2.28,Kassembie_2.28 (Rhodoferax_C),Rhodoferax_C,NA,PL,2
+Kassembie_2.29,Kassembie_2.29 (Limnohabitans),Limnohabitans,Limnohabitans sp903925445,AA,4
+Kassembie_2.29,Kassembie_2.29 (Limnohabitans),Limnohabitans,Limnohabitans sp903925445,CE,3
+Kassembie_2.29,Kassembie_2.29 (Limnohabitans),Limnohabitans,Limnohabitans sp903925445,GH,11
+Kassembie_2.29,Kassembie_2.29 (Limnohabitans),Limnohabitans,Limnohabitans sp903925445,GT,31
+Kassembie_2.30,Kassembie_2.30 (Mycobacterium),Mycobacterium,NA,AA,7
+Kassembie_2.30,Kassembie_2.30 (Mycobacterium),Mycobacterium,NA,CBM,3
+Kassembie_2.30,Kassembie_2.30 (Mycobacterium),Mycobacterium,NA,CE,18
+Kassembie_2.30,Kassembie_2.30 (Mycobacterium),Mycobacterium,NA,GH,31
+Kassembie_2.30,Kassembie_2.30 (Mycobacterium),Mycobacterium,NA,GT,49
+Kassembie_2.30,Kassembie_2.30 (Mycobacterium),Mycobacterium,NA,PL,1
+Kassembie_2.32,Kassembie_2.32 (Stenotrophomonas),Stenotrophomonas,Stenotrophomonas sepilia,AA,8
+Kassembie_2.32,Kassembie_2.32 (Stenotrophomonas),Stenotrophomonas,Stenotrophomonas sepilia,CBM,8
+Kassembie_2.32,Kassembie_2.32 (Stenotrophomonas),Stenotrophomonas,Stenotrophomonas sepilia,CE,18
+Kassembie_2.32,Kassembie_2.32 (Stenotrophomonas),Stenotrophomonas,Stenotrophomonas sepilia,GH,43
+Kassembie_2.32,Kassembie_2.32 (Stenotrophomonas),Stenotrophomonas,Stenotrophomonas sepilia,GT,35
+Kassembie_2.33,Kassembie_2.33 (Fluviibacter),Fluviibacter,NA,AA,3
+Kassembie_2.33,Kassembie_2.33 (Fluviibacter),Fluviibacter,NA,GH,5
+Kassembie_2.33,Kassembie_2.33 (Fluviibacter),Fluviibacter,NA,GT,23
+Kassembie_2.35,Kassembie_2.35 (Polynucleobacter),Polynucleobacter,NA,AA,3
+Kassembie_2.35,Kassembie_2.35 (Polynucleobacter),Polynucleobacter,NA,CE,2
+Kassembie_2.35,Kassembie_2.35 (Polynucleobacter),Polynucleobacter,NA,GH,5
+Kassembie_2.35,Kassembie_2.35 (Polynucleobacter),Polynucleobacter,NA,GT,17
+Kassembie_2.36,Kassembie_2.36 (Rhodoluna),Rhodoluna,NA,AA,1
+Kassembie_2.36,Kassembie_2.36 (Rhodoluna),Rhodoluna,NA,CBM,3
+Kassembie_2.36,Kassembie_2.36 (Rhodoluna),Rhodoluna,NA,CE,2
+Kassembie_2.36,Kassembie_2.36 (Rhodoluna),Rhodoluna,NA,GH,15
+Kassembie_2.36,Kassembie_2.36 (Rhodoluna),Rhodoluna,NA,GT,12
+Kassembie_2.39,Kassembie_2.39 (Pseudomonas_E),Pseudomonas_E,Pseudomonas_E bananamidigenes,AA,13
+Kassembie_2.39,Kassembie_2.39 (Pseudomonas_E),Pseudomonas_E,Pseudomonas_E bananamidigenes,CBM,3
+Kassembie_2.39,Kassembie_2.39 (Pseudomonas_E),Pseudomonas_E,Pseudomonas_E bananamidigenes,CE,12
+Kassembie_2.39,Kassembie_2.39 (Pseudomonas_E),Pseudomonas_E,Pseudomonas_E bananamidigenes,GH,32
+Kassembie_2.39,Kassembie_2.39 (Pseudomonas_E),Pseudomonas_E,Pseudomonas_E bananamidigenes,GT,47
+Kassembie_2.39,Kassembie_2.39 (Pseudomonas_E),Pseudomonas_E,Pseudomonas_E bananamidigenes,PL,2
+Kassembie_2.4,Kassembie_2.4 (Polynucleobacter),Polynucleobacter,NA,AA,4
+Kassembie_2.4,Kassembie_2.4 (Polynucleobacter),Polynucleobacter,NA,CE,2
+Kassembie_2.4,Kassembie_2.4 (Polynucleobacter),Polynucleobacter,NA,GH,6
+Kassembie_2.4,Kassembie_2.4 (Polynucleobacter),Polynucleobacter,NA,GT,18
+Kassembie_2.43,Kassembie_2.43 (Fluviibacter),Fluviibacter,NA,AA,3
+Kassembie_2.43,Kassembie_2.43 (Fluviibacter),Fluviibacter,NA,CE,2
+Kassembie_2.43,Kassembie_2.43 (Fluviibacter),Fluviibacter,NA,GH,5
+Kassembie_2.43,Kassembie_2.43 (Fluviibacter),Fluviibacter,NA,GT,18
+Kassembie_2.48,Kassembie_2.48 (Limnohabitans),Limnohabitans,NA,AA,5
+Kassembie_2.48,Kassembie_2.48 (Limnohabitans),Limnohabitans,NA,CE,4
+Kassembie_2.48,Kassembie_2.48 (Limnohabitans),Limnohabitans,NA,GH,6
+Kassembie_2.48,Kassembie_2.48 (Limnohabitans),Limnohabitans,NA,GT,19
+Kassembie_2.49,Kassembie_2.49 (Novosphingobium),Novosphingobium,NA,AA,9
+Kassembie_2.49,Kassembie_2.49 (Novosphingobium),Novosphingobium,NA,CBM,1
+Kassembie_2.49,Kassembie_2.49 (Novosphingobium),Novosphingobium,NA,CE,5
+Kassembie_2.49,Kassembie_2.49 (Novosphingobium),Novosphingobium,NA,GH,26
+Kassembie_2.49,Kassembie_2.49 (Novosphingobium),Novosphingobium,NA,GT,45
+Kassembie_2.5,Kassembie_2.5 (DATGWF01),DATGWF01,NA,AA,1
+Kassembie_2.5,Kassembie_2.5 (DATGWF01),DATGWF01,NA,CE,1
+Kassembie_2.5,Kassembie_2.5 (DATGWF01),DATGWF01,NA,GH,6
+Kassembie_2.5,Kassembie_2.5 (DATGWF01),DATGWF01,NA,GT,10
+Kassembie_2.51,Kassembie_2.51 (RGVT01),RGVT01,NA,CBM,5
+Kassembie_2.51,Kassembie_2.51 (RGVT01),RGVT01,NA,CE,13
+Kassembie_2.51,Kassembie_2.51 (RGVT01),RGVT01,NA,GH,22
+Kassembie_2.51,Kassembie_2.51 (RGVT01),RGVT01,NA,GT,26
+Kassembie_2.51,Kassembie_2.51 (RGVT01),RGVT01,NA,PL,2
+Kassembie_2.52,Kassembie_2.52 (Unknown),NA,NA,AA,3
+Kassembie_2.52,Kassembie_2.52 (Unknown),NA,NA,CBM,2
+Kassembie_2.52,Kassembie_2.52 (Unknown),NA,NA,CE,6
+Kassembie_2.52,Kassembie_2.52 (Unknown),NA,NA,GH,29
+Kassembie_2.52,Kassembie_2.52 (Unknown),NA,NA,GT,32
+Kassembie_2.53,Kassembie_2.53 (JANRKJ01),JANRKJ01,NA,AA,3
+Kassembie_2.53,Kassembie_2.53 (JANRKJ01),JANRKJ01,NA,CBM,7
+Kassembie_2.53,Kassembie_2.53 (JANRKJ01),JANRKJ01,NA,CE,13
+Kassembie_2.53,Kassembie_2.53 (JANRKJ01),JANRKJ01,NA,GH,57
+Kassembie_2.53,Kassembie_2.53 (JANRKJ01),JANRKJ01,NA,GT,74
+Kassembie_2.53,Kassembie_2.53 (JANRKJ01),JANRKJ01,NA,PL,1
+Kassembie_2.55,Kassembie_2.55 (Enterobacter),Enterobacter,Enterobacter quasiroggenkampii,AA,6
+Kassembie_2.55,Kassembie_2.55 (Enterobacter),Enterobacter,Enterobacter quasiroggenkampii,CBM,6
+Kassembie_2.55,Kassembie_2.55 (Enterobacter),Enterobacter,Enterobacter quasiroggenkampii,CE,8
+Kassembie_2.55,Kassembie_2.55 (Enterobacter),Enterobacter,Enterobacter quasiroggenkampii,GH,67
+Kassembie_2.55,Kassembie_2.55 (Enterobacter),Enterobacter,Enterobacter quasiroggenkampii,GT,32
+Kassembie_2.7,Kassembie_2.7 (UBA668),UBA668,NA,AA,4
+Kassembie_2.7,Kassembie_2.7 (UBA668),UBA668,NA,CE,8
+Kassembie_2.7,Kassembie_2.7 (UBA668),UBA668,NA,GH,21
+Kassembie_2.7,Kassembie_2.7 (UBA668),UBA668,NA,GT,32
+Kassembie_2.8,Kassembie_2.8 (QYQL01),QYQL01,NA,AA,1
+Kassembie_2.8,Kassembie_2.8 (QYQL01),QYQL01,NA,CBM,15
+Kassembie_2.8,Kassembie_2.8 (QYQL01),QYQL01,NA,CE,24
+Kassembie_2.8,Kassembie_2.8 (QYQL01),QYQL01,NA,GH,131
+Kassembie_2.8,Kassembie_2.8 (QYQL01),QYQL01,NA,GT,80
+Kassembie_2.8,Kassembie_2.8 (QYQL01),QYQL01,NA,PL,6
+Kassembie_2.9,Kassembie_2.9 (Leifsonia),Leifsonia,NA,AA,2
+Kassembie_2.9,Kassembie_2.9 (Leifsonia),Leifsonia,NA,CBM,3
+Kassembie_2.9,Kassembie_2.9 (Leifsonia),Leifsonia,NA,CE,7
+Kassembie_2.9,Kassembie_2.9 (Leifsonia),Leifsonia,NA,GH,58
+Kassembie_2.9,Kassembie_2.9 (Leifsonia),Leifsonia,NA,GT,39
+Kassembie_2.9,Kassembie_2.9 (Leifsonia),Leifsonia,NA,PL,1

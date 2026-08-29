@@ -1,0 +1,20 @@
+id,pathway,genes
+00363,Bisphenol degradation,2
+00365,Furfural degradation,4
+00642,Ethylbenzene degradation,5
+00791,Atrazine degradation,7
+00364,Fluorobenzoate degradation,9
+00626,Naphthalene degradation,9
+00930,Caprolactam degradation,11
+00621,Dioxin degradation,11
+00643,Styrene degradation,14
+00624,Polycyclic aromatic hydrocarbon deg.,14
+00625,Chloroalkane & chloroalkene deg.,15
+00633,Nitrotoluene degradation,16
+00361,Chlorocyclohexane & chlorobenzene deg.,17
+00623,Toluene degradation,21
+00622,Xylene degradation,24
+00980,Metab. of xenobiotics by cyt. P450 (980/982/983),31
+00984,Steroid degradation,41
+00627,Aminobenzoate degradation,46
+00362,Benzoate degradation,84

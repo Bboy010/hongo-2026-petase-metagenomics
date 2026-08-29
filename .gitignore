@@ -1,0 +1,19 @@
+# Raw eggNOG-mapper output: 117 MB, above GitHub's 100 MB per-file limit.
+# unique_analysis_file.R falls back on data/eggnog_COG_category_counts.tsv
+# when this file is absent, and produces the same Figure S4.
+data/eggnog_results.emapper.annotations
+
+# R session leftovers
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+Rplots.pdf
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Local backups
+*.bak
+*.bak_*

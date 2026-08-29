@@ -1,0 +1,731 @@
+kingdom,phylum,class,order,family,genus,species,SGB,Bietry_1,Bietry_2,Bietry_3,Kassembie_1,Kassembie_2,status
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_immobilis,t__SGB10451,29.98256,8.14266,9.59917,0,0.07389,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_celer,t__SGB10449,16.14696,22.87474,23.32219,0,0.19898,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_pasteurii,t__SGB10444,11.27913,4.91351,8.84516,0,0.01211,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sanguinis,t__SGB10445,11.04247,24.40833,2.81535,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_pacificensis,t__SGB10450,8.95103,5.35932,15.7176,0,0.12606,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_Ps6,t__SGB109964,4.30278,1.2204,0.94873,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_maritimus,t__SGB36487,3.89483,4.12395,3.58508,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_sp_s22,t__SGB94591,3.3285,0.22104,0.09156,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_immobilis,t__SGB10459,2.10455,2.07009,5.01484,0,0.01607,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sanguinis,t__SGB10442,1.15412,0.60031,1.93811,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_profundum,t__SGB8320,0.84332,0.01453,0.10963,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_aestuarii,t__SGB29990,0.80699,0.42215,0.16173,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_APC_3426,t__SGB99643,0.57904,0.25771,0.41522,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Peptostreptococcales,f__Peptostreptococcaceae,g__Paraclostridium,s__Paraclostridium_bifermentans,t__SGB6144,0.50888,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_capsici,t__SGB7494,0.36956,0.0436,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_SGB66365,t__SGB66365,0.28142,0.39188,0.69366,0,0,Undescribed
+k__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Marinilabiliales,f__Marinifilaceae,g__Marinifilum,s__Marinifilum_fragile,t__SGB27895,0.28051,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_bablab_jr012,t__SGB92566,0.24113,0.35015,0.07943,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Peptostreptococcales,f__Filifactoraceae,g__Acetoanaerobium,s__Acetoanaerobium_noterae,t__SGB6090,0.23965,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_faecalis,t__SGB10464,0.20081,0.11223,0.60632,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Peptostreptococcales,f__Peptostreptococcaceae,g__Terrisporobacter,s__Terrisporobacter_hibernicus,t__SGB6143,0.19794,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Defluviimonas,s__Defluviimonas_nitratireducens,t__SGB181711,0.17882,0.50756,0.32651,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Proteiniclasticum,s__Proteiniclasticum_aestuarii,t__SGB94845,0.15055,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_oceanisediminis,t__SGB82817,0.14878,0.08326,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_fozii,t__SGB23001,0.14534,0.87472,0.3562,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Tenacibaculum,s__Tenacibaculum_sp_L6,t__SGB196021,0.14241,0.5554,0.11389,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Vagococcus,s__Vagococcus_fluvialis,t__SGB7918,0.12874,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_piechaudii,t__SGB10443,0.10694,0.036,0.13345,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Celeribacter,s__Celeribacter_sp_HF31,t__SGB73438,0.1045,0.01235,0.16459,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Mesobacillus,s__Mesobacillus_jeotgali,t__SGB82815,0.09793,0.03674,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Mesobacillus,s__Mesobacillus_jeotgali,t__SGB154083,0.08668,0.07959,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Trichococcus,s__Trichococcus_flocculiformis,t__SGB7467,0.08567,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus_petauri,t__SGB7980,0.07968,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_venetianus,t__SGB10365,0.07692,0,0.0059,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_NG27,t__SGB81607,0.0722,0.01362,0.038,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridium,s__Clostridium_sulfidigenes,t__SGB6235,0.07067,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_zeaxanthinifaciens,t__SGB31432,0.06518,0.1913,0.02294,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Mesoflavibacter,s__Mesoflavibacter_SGB92152,t__SGB92152,0.05984,0.99962,0.00907,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_alimentarius,t__SGB10455,0.05804,1.19196,0.26055,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Celeribacter,s__Celeribacter_ethanolicus,t__SGB10876,0.05776,0.6554,0.0036,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridium,s__Clostridium_sartagoforme,t__SGB6182,0.05571,0,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Mesoflavibacter,s__Mesoflavibacter_zeaxanthinifaciens,t__SGB21779,0.05521,3.88005,0.008,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Celeribacter,s__Celeribacter_naphthalenivorans,t__SGB111305,0.05024,0.00137,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Mesobacillus,s__Mesobacillus_selenatarsenatis,t__SGB82816,0.04826,0.17409,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Micrococcus,s__Micrococcus_endophyticus,t__SGB16677,0.04782,0.12846,0.73354,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Vreelandella,s__Vreelandella_aquamarina,t__SGB11824,0.04773,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus_suis,t__SGB29821_group,0.04666,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Peptostreptococcales,f__Peptostreptococcaceae,g__Romboutsia,s__Romboutsia_lituseburensis,t__SGB6151,0.04512,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_NZS113,t__SGB206398,0.04074,0,0.00766,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_cryohalolentis,t__SGB10467,0.03749,0.089,0.10081,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_alkaliphilum,t__SGB8324,0.03424,0.14569,0.01463,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_indicus,t__SGB31423,0.03392,0.33445,4.80992,0,0.02371,Named species
+k__Bacteria,p__Planctomycetota,c__CFGB25759,o__OFGB25759,f__FGB25759,g__GGB45133,s__GGB45133_SGB62646,t__SGB62646,0.03298,0.02685,1.24105,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_homiensis,t__SGB10712,0.03254,0.7117,0.17395,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_fjordensis,t__SGB206397,0.02992,0.00193,0.00977,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_sphaericus,t__SGB7490,0.02825,0.00537,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flavobacterium,s__Flavobacterium_haoranii,t__SGB3042,0.02771,0.024,0.00101,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Bacillus_enclensis,t__SGB7721,0.0275,0.25621,0.00711,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Mesoflavibacter,s__Mesoflavibacter_profundi,t__SGB21778,0.027,0.40199,0.01696,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_phenylpyruvicus,t__SGB22998,0.02403,0.03787,0.05442,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_NG254,t__SGB206395,0.02342,0.00125,0.02182,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Thioclava,s__Thioclava_electrotropha,t__SGB10700,0.02159,0.51474,9.2e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_5A_1,t__SGB165560,0.02006,0.02748,0.01791,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_fusiformis,t__SGB7493,0.01956,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Stutzerimonas,s__Stutzerimonas_stutzeri,t__SGB12382,0.01912,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_vietnamensis,t__SGB7723,0.01875,0.16588,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_SWN149,t__SGB206396,0.01807,0.01149,0.02477,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Trichococcus,s__Trichococcus_shcherbakoviae,t__SGB7469_group,0.01717,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_arenosus,t__SGB81601,0.0169,0.22646,0.02555,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_submarinus,t__SGB31383,0.01649,0.02519,0.22095,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Ruegeria,s__Ruegeria_sp_HKCCSA071,t__SGB93802,0.0162,0.01392,0.07124,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Planococcus,s__Planococcus_plakortidis,t__SGB154034,0.01591,0.19972,0.0245,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcales_unclassified,g__Timonella,s__Timonella_senegalensis,t__SGB34806,0.0143,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_aquimaris,t__SGB109822,0.01416,0.051090000000000003,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Lutimaribacter,s__Lutimaribacter_saemankumensis,t__SGB10587,0.01405,0.0713,0.02085,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_SGB21798,t__SGB21798,0.01346,1.93698,2.26672,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_NG25,t__SGB81608,0.01306,4.7e-4,0.00751,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_luti,t__SGB81605,0.01255,0.00191,0.01896,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Chromatiales,f__Ectothiorhodospiraceae,g__Candidatus_Macondimonas,s__Candidatus_Macondimonas_diazotrophica,t__SGB33311,0.01141,0.00207,0.02422,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Solibacillus,s__Solibacillus_isronensis,t__SGB29963,0.01134,0.05183,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Dietziaceae,g__Dietzia,s__Dietzia_kunjamensis,t__SGB15765,0.0101,0.16161,2.37139,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Altererythrobacter,s__Altererythrobacter_epoxidivorans,t__SGB11489,0.00938,0.83781,0.25301,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Rhodobacterales_unclassified,g__Paenirhodobacter,s__Paenirhodobacter_sp_CAU_1674,t__SGB38166,0.009,0.12692,0.00422,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Desemzia,s__Desemzia_incerta,t__SGB7913,0.00895,0,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Tenacibaculum,s__Tenacibaculum_SGB196020,t__SGB196020,0.00871,8.2e-4,0,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Alloyangia,s__Alloyangia_pacifica,t__SGB24257,0.00832,0.43191,0.07096,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_PP_21,t__SGB165561,0.00806,0,0.00327,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Staphylococcaceae,g__GGB26910,s__GGB26910_SGB39105,t__SGB39105,0.00731,0.00122,0,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_sedimenti,t__SGB109959,0.00693,0.01727,0.02949,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Intrasporangiaceae,g__Janibacter,s__Janibacter_SGB99000,t__SGB99000,0.0064,0.02125,0.06132,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Halopseudomonas,s__Halopseudomonas_aestusnigri,t__SGB12060,0.00637,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Carnobacterium,s__Carnobacterium_jeotgali,t__SGB7908,0.00634,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridium,s__Clostridium_butyricum,t__SGB6170,0.00612,0,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Lutibacter,s__Lutibacter_maritimus,t__SGB2807,0.00606,0.0033,4e-5,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_ISL_55,t__SGB94611,0.00547,0.00204,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_proteolyticus,t__SGB31378,0.00533,0,0.00244,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_cereus,t__SGB7697,0.00523,0.06487,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Gordoniaceae,g__Gordonia,s__Gordonia_aquimaris,t__SGB110855,0.00514,0.01983,0.03553,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Ruegeria,s__Ruegeria_intermedia,t__SGB90365,0.00497,0.00857,0.00195,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB67380,o__OFGB67380,f__FGB67380,g__GGB136607,s__GGB136607_SGB176925,t__SGB176925,0.00487,0.00533,0.00157,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_firmus,t__SGB7570,0.00485,0.08364,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Jeotgalibaca,s__Jeotgalibaca_dankookensis,t__SGB7901,0.00458,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_aquimaris,t__SGB109819,0.00448,0.04438,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus,s__Enterococcus_casseliflavus,t__SGB7952,0.00444,0,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Thermoleophilia,o__Miltoncostaeales,f__Miltoncostaeaceae,g__GGB64250,s__GGB64250_SGB86667,t__SGB86667,0.00441,0.00269,0.3537,0,0,Undescribed
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_aquimaris,t__SGB2715,0.00388,0.90555,0.42065,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Thioclava,s__Thioclava_marina,t__SGB10702,0.00342,0.60872,0.00904,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_sp_ANT_WB68,t__SGB81604,0.0034,0.00552,0.0056,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_RAR_GA_16,t__SGB109758,0.00336,0.33249,0.02515,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Thalassovita,s__Thalassobius_vesicularis,t__SGB56723,0.00331,7.1e-4,0.02333,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Meridianimaribacter,s__Meridianimaribacter_flavus,t__SGB28012,0.00329,0.20622,0.00759,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flavobacterium,s__Flavobacterium_okayamense,t__SGB109355,0.0032,0,0.00705,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Winogradskyella,s__Winogradskyella_sp_MH6,t__SGB2845,0.00307,0.09729,0.00163,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_ISL_41,t__SGB94609,0.00264,0.00433,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_aestuarii,t__SGB111651,0.00231,0.0563,0.42279,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Maribacter,s__Maribacter_aurantiacus,t__SGB79212,0.0023,0.02584,0.0014,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridium,s__Clostridium_tertium,t__SGB6183,0.00226,0,0,0,0,Named species
+k__Bacteria,p__Thermodesulfobacteriota,c__CFGB93781,o__OFGB93781,f__FGB93781,g__GGB6246,s__GGB6246_SGB8904,t__SGB8904,0.00223,0,0,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_proteolytica,t__SGB111655,0.00214,0.20832,0.08063,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_SGB165522,t__SGB165522,0.00199,0.00369,0.02183,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Mesobacillus,s__Mesobacillus_selenatarsenatis,t__SGB7560,0.00184,0,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Muriicola,s__Muriicola_marianensis,t__SGB79191,0.00183,0.01077,7e-5,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_louembei,t__SGB154064,0.00182,0.00142,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Robiginitalea,s__Robiginitalea_sediminis,t__SGB27909,0.00175,0.00326,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Corynebacteriaceae,g__Corynebacterium,s__Corynebacterium_SGB61358,t__SGB61358,0.0017,0,0.02914,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__CFGB23763,o__OFGB23763,f__FGB23763,g__GGB59727,s__GGB59727_SGB81551,t__SGB81551,0.00169,0,0.00161,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Ruegeria,s__Ruegeria_pomeroyi,t__SGB111379,0.00167,0,0.00539,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Pseudothioclava,s__Pseudothioclava_arenosa,t__SGB24239,0.00163,0,0.012,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Thalassovita,s__Thalassovita_litoralis,t__SGB90524,0.0016,0,0.02073,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Rhodalgimonas,s__Rhodalgimonas_zhirmunskyi,t__SGB181912,0.00153,0,0.00462,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridiaceae_unclassified,s__Clostridiaceae_bacterium_AF10_41,t__SGB205747,0.00139,0,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Hanstruepera,s__Hanstruepera_neustonica,t__SGB2862,0.00138,0.00267,0.00214,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__GGB43318,s__GGB43318_SGB138064,t__SGB138064,0.00136,0,0.37426,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium_aquaticum,t__SGB87478,0.00135,6.9e-4,0.26817,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Ornithinimicrobiaceae,g__Ornithinimicrobium,s__Ornithinimicrobium_kibberense,t__SGB16005,0.00131,0.01432,0.16671,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB67380,o__OFGB67380,f__FGB67380,g__GGB60247,s__GGB60247_SGB82192,t__SGB82192,0.0013,0.00199,3.9e-4,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Mesobacillus,s__Mesobacillus_subterraneus,t__SGB154082,0.00118,9.6e-4,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Marinilabiliales,f__Prolixibacteraceae,g__Mangrovibacterium,s__Mangrovibacterium_diazotrophicum,t__SGB27889,0.00103,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Defluviimonas,s__Defluviimonas_SGB90463,t__SGB90463,9.9e-4,0.00208,0.01567,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Marinobacteraceae,g__Marinobacter,s__Marinobacter_nauticus,t__SGB11915,9.4e-4,0.12466000000000001,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_oceanisediminis,t__SGB7551,9.1e-4,0.00805,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Proteiniclasticum,s__Proteiniclasticum_ruminis,t__SGB4012,8.8e-4,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Aerococcaceae,g__Aerococcus,s__Aerococcus_urinaeequi,t__SGB7897,8.3e-4,0,0.00961,0,0,Named species
+k__Bacteria,p__Nitrospirota,c__Nitrospiria,o__Nitrospirales,f__Nitrospiraceae,g__GGB75461,s__GGB75461_SGB170944,t__SGB170944,8.2e-4,5e-5,0,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_immobilis,t__SGB10460,8e-4,0,0.02231,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridium,s__Clostridium_aquiflavi,t__SGB77454,7.7e-4,0,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Mesobacillus,s__Mesobacillus_jeotgali,t__SGB30253,7.5e-4,7.1e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_firmus,t__SGB25148,7.3e-4,0.01668,0,0,0,Named species
+k__Bacteria,p__Planctomycetota,c__CFGB25759,o__OFGB25759,f__FGB25759,g__GGB98529,s__GGB98529_SGB137755,t__SGB137755,7.1e-4,0.00161,0.05519,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_schleiferi,t__SGB23851,6.6e-4,0,0.07064,0,0,Named species
+k__Bacteria,p__Planctomycetota,c__Planctomycetia,o__Pirellulales,f__Lacipirellulaceae,g__GGB138701,s__GGB138701_SGB185574,t__SGB185574,5.8e-4,5.3e-4,2.8e-4,0,0,Undescribed
+k__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Marinilabiliales,f__Prolixibacteraceae,g__Maribellus,s__Maribellus_luteus,t__SGB197668,5.5e-4,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_intermedia,t__SGB111664,5.3e-4,0.05804,0.04195,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Propionibacteriaceae,g__Brooklawnia,s__Brooklawnia_propionicigenes,t__SGB61426,5.3e-4,0,0.00919,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Acidimicrobiia,o__Acidimicrobiales,f__Ilumatobacteraceae,g__Ilumatobacter,s__Ilumatobacter_fluminis,t__SGB33811,3.7e-4,0.00134,0.00588,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Clostridia_unclassified,f__Clostridia_unclassified,g__GGB55957,s__GGB55957_SGB77276,t__SGB77276,2.7e-4,0,0,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridium,s__Clostridium_weizhouense,t__SGB109593,2.6e-4,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Oceanospirillaceae,g__Neptunomonas,s__Neptunomonas_concharum,t__SGB58226,2.6e-4,0,0.01846,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Marivita,s__Marivita_geojedonensis,t__SGB10565,2.5e-4,0,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Thioclava,s__Thioclava_sp_ES_031,t__SGB206424,1.9e-4,0.01308,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomonadales,f__Hyphomonadaceae,g__Hyphomonas,s__Hyphomonas_sp_CY54_11_8,t__SGB10522,1.8e-4,0,0.00344,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Corynebacteriaceae,g__Corynebacterium,s__Corynebacterium_vitaeruminis,t__SGB17092,1.8e-4,1.4e-4,0.00166,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Priestia,s__Priestia_flexa,t__SGB7677,1.7e-4,0.04478,0.02425,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Defluviimonas,s__Defluviimonas_denitrificans,t__SGB24223,1.6e-4,0.0021,0.00122,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Rhizobiaceae,g__GGB16199,s__GGB16199_SGB24558,t__SGB24558,1.1e-4,0,0,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_gelatinilytica,t__SGB111661,8e-5,0.0495,0.02237,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB92807,o__OFGB92807,f__FGB92807,g__GGB134974,s__GGB134974_SGB177300,t__SGB177300,4e-5,0,0,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_sp_s146,t__SGB94588,0,0.86602,0.00251,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Thioclava,s__Thioclava_nitratireducens,t__SGB10699,0,0.57962,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_aquimaris,t__SGB111660,0,0.52113,0.07391,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_aerophila,t__SGB11491,0,0.27143,0.58611,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_esteraromaticum,t__SGB87888,0,0.17588,8.5e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Xanthomarina,s__Xanthomarina_gelatinilytica,t__SGB2856,0,0.17481,0.0226,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Marilutibacter,s__Marilutibacter_spongiae,t__SGB88889,0,0.15175,0.0433,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Priestia,s__Priestia_megaterium,t__SGB7678,0,0.14874,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_flava,t__SGB11494,0,0.148,0.40314,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_paranthracis,t__SGB7703_group,0,0.11942,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flagellimonas,s__Flagellimonas_beolgyonensis,t__SGB27927,0,0.11751,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Leeuwenhoekiella,s__Leeuwenhoekiella_nanhaiensis,t__SGB2741,0,0.09032,0.10888,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Fictibacillus,s__Fictibacillus_halophilus,t__SGB30111,0,0.08426,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_fusiformis,t__SGB154060,0,0.07893,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_maritimus,t__SGB56711,0,0.06606,0.0738,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Arenibacter,s__Arenibacter_latericius,t__SGB27931,0,0.05701,8.5e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacter,s__Erythrobacter_sp_SD_21,t__SGB11497,0,0.05454,0.05783,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_NTK034,t__SGB94617,0,0.05447,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Heliomarina,s__Heliomarina_baculiformis,t__SGB93810,0,0.05114,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_sinensis,t__SGB79035,0,0.04929,0.24668,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Winogradskyella,s__Winogradskyella_sp_SYSU_M77433,t__SGB50077,0,0.04859,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Zeaxanthinibacter,s__Zeaxanthinibacter_enoshimensis,t__SGB27911,0,0.04418,8.9e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Roseovarius,s__Roseovarius_pacificus,t__SGB111363,0,0.04367,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Devosiaceae,g__Youhaiella,s__Youhaiella_tibetensis,t__SGB10981,0,0.04263,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_oceanensis,t__SGB90058,0,0.04214,0.00621,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_xiamenensis,t__SGB111662,0,0.04181,0.01214,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Leeuwenhoekiella,s__Leeuwenhoekiella_palythoae,t__SGB2739,0,0.04173,0.0244,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Salipiger,s__Salipiger_thiooxidans,t__SGB10806,0,0.04114,0.00159,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Niallia,s__Niallia_taxi,t__SGB30277,0,0.03995,0.01769,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_aquimaris,t__SGB206462,0,0.03627,0.04592,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Rhodococcus,s__Rhodococcus_ruber,t__SGB15836,0,0.03377,0.01646,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Pseudalkalibacillus,s__Pseudalkalibacillus_hwajinpoensis,t__SGB206131,0,0.03196,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Cellulomonadaceae,g__Cellulomonas,s__Cellulomonas_sp_APG4,t__SGB87526,0,0.02958,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_soli,t__SGB94159,0,0.02743,2e-4,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Priestia,s__Priestia_flexa,t__SGB25213,0,0.02614,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacter,s__Erythrobacter_sp_HKB08,t__SGB31606,0,0.02579,0.00242,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Rhizobiaceae,g__Pseudorhizobium,s__Pseudorhizobium_flavum,t__SGB11111,0,0.02402,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_Marseille_Q1617,t__SGB66476,0,0.02384,0.00202,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Jeotgalibacillus,s__Jeotgalibacillus_malaysiensis,t__SGB154195,0,0.02276,0.00275,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Alloyangia,s__Alloyangia_pacifica,t__SGB10803,0,0.02215,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Leucobacter,s__Leucobacter_muris,t__SGB16936,0,0.02188,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_vladivostokensis,t__SGB2714,0,0.0213,0.0405,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_nanhaisediminis,t__SGB11503,0,0.02104,0.03754,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_oceanisediminis,t__SGB7569,0,0.01914,0.00122,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Fredinandcohnia,s__Fredinandcohnia_onubensis,t__SGB30195,0,0.01784,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_gaetbuli,t__SGB90062,0,0.01755,0.00403,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Arenibacter,s__Arenibacter_palladensis,t__SGB2769,0,0.01669,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Altererythrobacter,s__Altererythrobacter_xiamenensis,t__SGB11490,0,0.01661,0.00575,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_tianshenii,t__SGB94586,0,0.01577,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Maribacter,s__Maribacter_cobaltidurans,t__SGB2780,0,0.01509,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flagellimonas,s__Flagellimonas_olearia,t__SGB27926,0,0.01473,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_aquimaris,t__SGB30147,0,0.01418,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomonadales,f__Hyphomonadaceae,g__Hyphomonas,s__Hyphomonas_jannaschiana,t__SGB10521,0,0.01264,0.07027,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_acidaminiphila,t__SGB32936,0,0.01246,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_infantis,t__SGB7567,0,0.01082,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Alteriqipengyuania,s__Alteriqipengyuania_abyssalis,t__SGB111670,0,0.00985,0.01056,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_gaetbuli,t__SGB111665,0,0.00965,5.8e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Donghicola,s__Donghicola_tyrosinivorans,t__SGB24315,0,0.00943,0.00515,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Phyllobacteriaceae,g__Nitratireductor,s__Nitratireductor_aquimarinus,t__SGB32179,0,0.0087,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Salinicola,s__Salinicola_salarius,t__SGB32429,0,0.00832,0.02102,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Glutamicibacter,s__Glutamicibacter_soli,t__SGB16748,0,0.00804,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Agromyces,s__Agromyces_mediolanus,t__SGB87822,0,0.00793,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_marisflavi,t__SGB7720,0,0.0079,0.03202,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Subsaxibacter,s__Subsaxibacter_sp_CAU_1640,t__SGB109425,0,0.00714,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Arenibacter,s__Arenibacter_troitsensis,t__SGB2770,0,0.00692,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Pseudooceanicola,s__Pseudooceanicola_nanhaiensis,t__SGB31548,0,0.00684,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Gemmobacter,s__Gemmobacter_lutimaris,t__SGB31462,0,0.00679,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_marisflavi,t__SGB7719,0,0.00676,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Paenibacillaceae,g__Paenibacillus,s__Paenibacillus_camelliae,t__SGB82381,0,0.00676,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_kochii,t__SGB7554,0,0.00649,0.00166,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Metabacillus,s__Metabacillus_indicus,t__SGB7794,0,0.00638,0.00107,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacter,s__Erythrobacter_sp_YJ_T3_07,t__SGB94151,0,0.00635,0.00247,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Metabacillus,s__Metabacillus_halosaccharovorans,t__SGB109830,0,0.00593,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Ornithinimicrobiaceae,g__Ornithinimicrobium,s__Ornithinimicrobium_flavum,t__SGB34105,0,0.00593,0.11145,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flagellimonas,s__Flagellimonas_alvinocaridis,t__SGB50115,0,0.00575,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_SGB87885,t__SGB87885,0,0.00573,0.08905,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Tsuneonella,s__Tsuneonella_suprasediminis,t__SGB31592,0,0.00566,0.00337,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__Mycobacterium,s__Mycobacterium_sp_PO1,t__SGB93247,0,0.00566,0.01367,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Aliiroseovarius,s__Aliiroseovarius_zhejiangensis,t__SGB90363,0,0.00525,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Salegentibacter,s__Salegentibacter_mishustinae,t__SGB2758,0,0.00513,0.07784,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_vesicularis,t__SGB111663,0,0.00472,0.01941,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Allomuricauda,s__Allomuricauda_sp_ARW1Y1,t__SGB79220,0,0.00426,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__Mycolicibacterium,s__Mycolicibacterium_poriferae,t__SGB61375,0,0.00417,0.01326,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Alcaligenaceae,g__Pusillimonas,s__Pusillimonas_caeni,t__SGB32661,0,0.00406,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Cytobacillus,s__Cytobacillus_gottheilii,t__SGB30268,0,0.00402,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Pseudonocardiales,f__Pseudonocardiaceae,g__Saccharopolyspora,s__Saccharopolyspora_sp_HNM0983,t__SGB87400,0,0.0037200000000000002,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Gordoniaceae,g__Gordonia,s__Gordonia_alkanivorans,t__SGB15791,0,0.00341,0.01969,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Gordoniaceae,g__Gordonia,s__Gordonia_amicalis,t__SGB15794,0,0.00339,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Marixanthomonas,s__Marixanthomonas_sp_SCSIO_43207,t__SGB109379,0,0.00338,0.0078,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Brevundimonas,s__Brevundimonas_diminuta,t__SGB11731,0,0.00332,0.00994,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_pacificus,t__SGB177591,0,0.00302,0.01542,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacter,s__Erythrobacter_fulvus,t__SGB183023,0,0.00257,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Solibacillus,s__Solibacillus_daqui,t__SGB109768,0,0.00247,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Cytophagia,o__Cytophagales,f__Cyclobacteriaceae,g__Cyclobacterium,s__Cyclobacterium_sp_1_MG_2023,t__SGB196690,0,0.00242,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_safensis,t__SGB7774,0,0.0024,0.00751,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Demequinaceae,g__Demequina,s__Demequina_sp_NBRC_110052,t__SGB34270,0,0.00227,0.0018600000000000001,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_sp_XHP0207,t__SGB183064,0,0.00222,0.02435,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Fictibacillus,s__Fictibacillus_phosphorivorans,t__SGB82793,0,0.00217,0.00165,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Pseudalkalibacillus,s__Pseudalkalibacillus_spartinae,t__SGB154153,0,0.00212,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_altitudinis,t__SGB7770,0,0.00194,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_flava,t__SGB111654,0,0.00192,0.00741,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Winogradskyella,s__Winogradskyella_epiphytica,t__SGB21777,0,0.00178,0.01562,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Agromyces,s__Agromyces_indicus,t__SGB16850,0,0.00168,0.00588,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_aquimaris,t__SGB109820,0,0.00161,6.2e-4,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_chiriqhucha,t__SGB8322,0,0.00153,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__Mycolicibacterium,s__Mycolicibacterium_duvalii,t__SGB15682,0,0.00145,0.00145,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Solibacillus,s__Solibacillus_isronensis,t__SGB109769,0,0.00134,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Nonlabens,s__Nonlabens_tegetincola,t__SGB2900,0,0.00126,9.8e-4,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Sporosarcina,s__Sporosarcina_saromensis,t__SGB154050,0,0.00121,0,0,0,Named species
+k__Bacteria,p__Thermodesulfobacteriota,c__Desulfarculia,o__Desulfarculales,f__Desulfarculaceae,g__GGB39200,s__GGB39200_SGB57355,t__SGB57355,0,0.00121,0,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Altererythrobacter,s__Altererythrobacter_sp_CAU_1644,t__SGB183053,0,0.00117,0.00245,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomonadales,f__Hyphomonadaceae,g__Hyphomonas,s__Hyphomonas_sediminis,t__SGB111403,0,0.00115,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_aurantiaca,t__SGB111657,0,0.00107,0.0055,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_gaetbuli,t__SGB140628,0,0.00101,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flagellimonas,s__Flagellimonas_marinaquae,t__SGB109303,0,0.001,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Niallia,s__Niallia_circulans,t__SGB30275,0,9.8e-4,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Allomuricauda,s__Allomuricauda_sp_M10,t__SGB79215,0,9.7e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Sutcliffiella,s__Sutcliffiella_horikoshii,t__SGB109826,0,0.00093000000000000005,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flagellimonas,s__Flagellimonas_aequoris,t__SGB27922,0,0.00093000000000000005,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_polymorpha,t__SGB111658,0,8.4e-4,5.8e-4,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Robertmurraya,s__Robertmurraya_kyonggiensis,t__SGB49046,0,8e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Rossellomorea,s__Rossellomorea_aquimaris,t__SGB7722,0,7.5e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_fusiformis,t__SGB7491,0,6.7e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_N1_1,t__SGB101186,0,5.4e-4,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_iocasae,t__SGB79037,0,5.3e-4,0.00307,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Lysinibacillus,s__Lysinibacillus_sp_SGAir0095,t__SGB49061,0,5e-4,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_albicereus,t__SGB111340,0,4.8e-4,0.00102,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Paenibacillaceae,g__Brevibacillus,s__Brevibacillus_centrosporus,t__SGB7324,0,4.1e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Metabacillus,s__Metabacillus_schmidteae,t__SGB7743,0,3.6e-4,0,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Heyndrickxia,s__Heyndrickxia_oleronia,t__SGB7732,0,3.5e-4,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_paraoxydans,t__SGB16869,0,3.3e-4,0.29523,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Paucisalibacillus,s__Paucisalibacillus_globulus,t__SGB30058,0,3.2e-4,0,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Intrasporangiaceae,g__Nostocoides,s__Nostocoides_sp_F2B08,t__SGB87588,0,3e-4,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Marilutibacter,s__Marilutibacter_aestuarii,t__SGB88888,0,2.3e-4,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_sp_ALW1,t__SGB88976,0,2.1e-4,9.8e-4,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sinesaloumensis,t__SGB30200,0,1.6e-4,0,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Arenibacter,s__Arenibacter_certesii,t__SGB27930,0,1e-4,0,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_vulgaris,t__SGB31603,0,9e-5,1.4e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB13567,o__OFGB13567,f__FGB13567,g__GGB136195,s__GGB136195_SGB86552,t__SGB86552,0,0,1.69608,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium_paraconglomeratum,t__SGB16648,0,0,0.3639,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__GGB43317,s__GGB43317_SGB60623,t__SGB60623,0,0,0.29501,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_sediminilitoris,t__SGB100090,0,0,0.28307,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Loktanella,s__Loktanella_sp_3ANDIMAR09,t__SGB10549,0,0,0.21183,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Staphylococcaceae,g__Salinicoccus,s__Salinicoccus_roseus,t__SGB7804,0,0,0.13968,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Marivivens,s__Marivivens_SGB10879,t__SGB10879,0,0,0.13688,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Acidimicrobiia,o__Acidimicrobiales,f__Ilumatobacteraceae,g__GGB31920,s__GGB31920_SGB55883,t__SGB55883,0,0,0.12682,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Kocuria,s__Kocuria_flava,t__SGB16664,0,0,0.11647,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Rhodococcus,s__Rhodococcus_pyridinivorans,t__SGB15834,0,0,0.10714,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_gawkjiense,t__SGB16908,0,0,0.09518,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Sulfitobacter,s__Sulfitobacter_pontiacus,t__SGB10649,0,0,0.09425,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB36511,o__OFGB36511,f__FGB36511,g__GGB60033,s__GGB60033_SGB81933,t__SGB81933,0,0,0.09148,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Demequinaceae,g__Demequina,s__Demequina_litorisediminis,t__SGB175152,0,0,0.0905,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Christiangramia,s__Christiangramia_gaetbulicola,t__SGB21808,0,0,0.08712,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_litoralis,t__SGB110380,0,0,0.08527,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Kytococcaceae,g__Kytococcus,s__Kytococcus_sedentarius,t__SGB16000,0,0,0.08518,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__GGB66792,s__GGB66792_SGB90437,t__SGB90437,0,0,0.08429,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Micrococcus,s__Micrococcus_terreus,t__SGB16678,0,0,0.07589,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Rhodococcus,s__Rhodococcus_qingshengii,t__SGB15824,0,0,0.0711,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_aurantiacum,t__SGB16918,0,0,0.0685,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Rhodobacterales_unclassified,g__Rhodobacterales_unclassified,s__Rhodobacterales_bacterium_FZCC0069,t__SGB90314,0,0,0.0649,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_WCS2018Hpa_9,t__SGB175327,0,0,0.0606,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacteraceae_unclassified,s__Erythrobacteraceae_bacterium_E2_1_Yellow_Sea,t__SGB90029,0,0,0.05869,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Thermoleophilia,o__Miltoncostaeales,f__Miltoncostaeaceae,g__GGB64250,s__GGB64250_SGB86668,t__SGB86668,0,0,0.05728,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_harenosus,t__SGB56879,0,0,0.05523,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_SGB138215,t__SGB138215,0,0,0.05522,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_immobilis,t__SGB92575,0,0,0.05354,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_marcusii,t__SGB10707,0,0,0.05336,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB13567,o__OFGB13567,f__FGB13567,g__GGB136196,s__GGB136196_SGB176986,t__SGB176986,0,0,0.051,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Gordoniaceae,g__Gordonia,s__Gordonia_hongkongensis,t__SGB15787,0,0,0.04875,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Zunongwangia,s__Zunongwangia_profunda,t__SGB2750,0,0,0.04758,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Alteromonadales,f__Pseudoalteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas_nigrifaciens,t__SGB13904,0,0,0.04452,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_SGB38253,t__SGB38253,0,0,0.04389,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Demequinaceae,g__Demequina,s__Demequina_sediminis,t__SGB175147,0,0,0.04215,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Celeribacter,s__Celeribacter_halophilus,t__SGB10878,0,0,0.03854,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_variabilis,t__SGB110375,0,0,0.0381,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Halobacillus,s__Halobacillus_salinus,t__SGB30097,0,0,0.03398,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_sp_THAF38,t__SGB88972,0,0,0.03224,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Tetzosporium,s__Tetzosporium_hominis,t__SGB7504,0,0,0.03099,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Brevundimonas,s__Brevundimonas_aurantiaca,t__SGB11740,0,0,0.03007,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Jonesiaceae,g__Jonesia,s__Jonesia_denitrificans,t__SGB17212,0,0,0.02856,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Promicromonosporaceae,g__Cellulosimicrobium,s__Cellulosimicrobium_cellulans,t__SGB16053,0,0,0.02748,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Cryomorphaceae,g__Acidiluteibacter,s__Acidiluteibacter_ferrifornacis,t__SGB78761,0,0,0.02536,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Nioella,s__Nioella_SGB138072,t__SGB138072,0,0,0.0247,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Marivita,s__Marivita_SGB181916,t__SGB181916,0,0,0.02453,0,0,Undescribed
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Weeksellaceae,g__Profundicola,s__Profundicola_chukchiensis,t__SGB194983,0,0,0.02378,0,0,Named species
+k__Bacteria,p__Planctomycetota,c__CFGB25759,o__OFGB25759,f__FGB25759,g__GGB45144,s__GGB45144_SGB62657,t__SGB62657,0,0,0.02202,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Candidatus_Pelagibacterales,f__Candidatus_Pelagibacteraceae,g__GGB47040,s__GGB47040_SGB64963,t__SGB64963,0,0,0.02199,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_aquimaris,t__SGB23000,0,0,0.02153,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Salinicola,s__Salinicola_lusitanus,t__SGB32421,0,0,0.02138,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Candidatus_Pelagibacterales,f__Candidatus_Pelagibacterales_unclassified,g__GGB47034,s__GGB47034_SGB64954,t__SGB64954,0,0,0.02013,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Pseudorhodobacter,s__Pseudorhodobacter_sp_E13,t__SGB31398,0,0,0.01947,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Micrococcus,s__Micrococcus_flavus,t__SGB35106,0,0,0.01926,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Thiotrichales,f__Thiotrichaceae,g__Leucothrix,s__Leucothrix_mucor,t__SGB30696,0,0,0.0189,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Rhodococcoides,s__Rhodococcoides_fascians,t__SGB15814,0,0,0.01813,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Luteimonas,s__Luteimonas_colneyensis,t__SGB88952,0,0,0.01767,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Nitrosomonadales,f__Methylophilaceae,g__Methylophilaceae_unclassified,s__Methylophilaceae_unclassified_SGB91728,t__SGB91728,0,0,0.01673,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_pacificus,t__SGB32409,0,0,0.01622,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB13567,o__OFGB13567,f__FGB13567,g__GGB33138,s__GGB33138_SGB86553,t__SGB86553,0,0,0.01618,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Thioclava,s__Thioclava_sp_A2,t__SGB181712,0,0,0.016,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB13567,o__OFGB13567,f__FGB13567,g__GGB44069,s__GGB44069_SGB61447,t__SGB61447,0,0,0.01518,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Micrococcus,s__Micrococcus_luteus,t__SGB16676,0,0,0.01482,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Christiangramia,s__Christiangramia_portivictoriae,t__SGB27969,0,0,0.01446,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_kunmingense,t__SGB111237,0,0,0.01437,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Novilysobacter,s__Novilysobacter_defluvii,t__SGB12531,0,0,0.01417,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacteraceae_unclassified,s__Erythrobacteraceae_bacterium_WH01K,t__SGB183051,0,0,0.01398,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_marinum,t__SGB55576,0,0,0.01326,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Corynebacteriaceae,g__Corynebacterium,s__Corynebacterium_variabile,t__SGB17034,0,0,0.01322,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Novilysobacter,s__Novilysobacter_spongiicola,t__SGB12530,0,0,0.01277,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Gelidibacter,s__Gelidibacter_japonicus,t__SGB79113,0,0,0.01274,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__CFGB83599,o__OFGB83599,f__FGB83599,g__GGB99166,s__GGB99166_SGB140305,t__SGB140305,0,0,0.01233,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus_plantarum,t__SGB7202,0,0,0.0122,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Vreelandella,s__Vreelandella_aquamarina,t__SGB56856,0,0,0.012070000000000001,0,0,Named species
+k__Bacteria,p__Cyanobacteriota,c__Cyanophyceae,o__Synechococcales,f__Synechococcaceae,g__Synechococcus,s__Synechococcus_sp_LTW_R,t__SGB83477,0,0,0.01194,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Alteromonadales,f__Pseudoalteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas_tetraodonis,t__SGB13896,0,0,0.01163,0,0,Named species
+k__Bacteria,p__Verrucomicrobiota,c__Opitutia,o__Puniceicoccales,f__Coraliomargaritaceae,g__GGB25700,s__GGB25700_SGB37674,t__SGB37674,0,0,0.01149,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium_linens,t__SGB16634,0,0,0.01139,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Nocardioidaceae,g__Nocardioides,s__Nocardioides_SGB107694,t__SGB107694,0,0,0.01125,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_aurantiacum,t__SGB8323,0,0,0.01105,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Halobacillus,s__Halobacillus_litoralis,t__SGB82774,0,0,0.01101,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Alcanivoracaceae,g__Alcanivorax,s__Alcanivorax_borkumensis,t__SGB11939,0,0,0.01069,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__Streptomyces,s__Streptomyces_albidoflavus,t__SGB16294,0,0,0.0104,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__CFGB24306,o__OFGB24306,f__FGB24306,g__GGB14202,s__GGB14202_SGB36131,t__SGB36131,0,0,0.0102,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_pittii,t__SGB10346,0,0,0.01013,0,28.56588,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium_massiliense,t__SGB34200,0,0,0.00925,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Propionibacteriaceae,g__Tessaracoccus,s__Tessaracoccus_flavus,t__SGB15913,0,0,0.00908,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_profundimaris,t__SGB183067,0,0,0.00882,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Planomicrobium,s__Planomicrobium_okeanokoites,t__SGB25127,0,0,0.00867,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Vreelandella,s__Vreelandella_venusta,t__SGB32461,0,0,0.00861,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Catenulisporales,f__Actinospicaceae,g__Actinospica,s__Actinospica_acidiphila,t__SGB16223,0,0,0.00848,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_algeriense,t__SGB34915,0,0,0.00809,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus_sp_SB49,t__SGB7639,0,0,0.00796,0,0,Named species
+k__Bacteria,p__Planctomycetota,c__CFGB46181,o__OFGB46181,f__FGB46181,g__GGB97621,s__GGB97621_SGB137707,t__SGB137707,0,0,0.00793,0,0,Undescribed
+k__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidales_unclassified,g__GGB56036,s__GGB56036_SGB208952,t__SGB208952,0,0,0.00786,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_sp_XHP0211,t__SGB183065,0,0,0.00777,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__GGB132915,s__GGB132915_SGB181538,t__SGB181538,0,0,0.00767,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_paludicola,t__SGB16902,0,0,0.00761,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Bizionia,s__Bizionia_paragorgiae,t__SGB2872,0,0,0.00749,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Demequinaceae,g__Demequina,s__Demequina_sp_NBRC_110055,t__SGB34256,0,0,0.00739,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__CFGB72964,o__OFGB72964,f__FGB72964,g__GGB46913,s__GGB46913_SGB64825,t__SGB64825,0,0,0.00733,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Alteraurantiacibacter,s__Alteraurantiacibacter_aquimixticola,t__SGB58439,0,0,0.00732,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_5K110,t__SGB55566,0,0,0.00723,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Nocardiopsidaceae,g__Nocardiopsis,s__Nocardiopsis_alba,t__SGB16394,0,0,0.00721,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Weeksellaceae,g__Chryseobacterium,s__Planobacterium_oryzisoli,t__SGB78870,0,0,0.00698,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_viscosa,t__SGB2711,0,0,0.00664,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_ihumii,t__SGB87870,0,0,0.00652,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Aliiroseovarius,s__Aliiroseovarius_crassostreae,t__SGB10664,0,0,0.00635,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Salegentibacter,s__Salegentibacter_maritimus,t__SGB79054,0,0,0.00608,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__GGB142108,s__GGB142108_SGB213955,t__SGB213955,0,0,0.00601,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_sp_C2R09,t__SGB111337,0,0,0.0059,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Pseudooceanicola,s__Pseudooceanicola_nitratireducens,t__SGB10769,0,0,0.00582,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_towneri,t__SGB10412,0,0,0.00557,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_maritypicum,t__SGB16874,0,0,0.00548,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_xiamenensis,t__SGB90441,0,0,0.00545,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Ornithinimicrobiaceae,g__Ornithinimicrobium,s__Ornithinimicrobium_pekingense,t__SGB34104,0,0,0.00528,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__CFGB83885,o__OFGB83885,f__FGB83885,g__GGB43144,s__GGB43144_SGB60398,t__SGB60398,0,0,0.00528,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Erythrobacter,s__Erythrobacter_aurantius,t__SGB111635,0,0,0.00523,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Zhihengliuella,s__Zhihengliuella_sp_ISTPL4,t__SGB34914,0,0,0.00518,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Oscillospiraceae,g__GGB9634,s__GGB9634_SGB15095,t__SGB15095,0,0,0.00512,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Kocuria,s__Kocuria_oceani,t__SGB16665,0,0,0.00499,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Negativicutes,o__Selenomonadales,f__Selenomonadaceae,g__Pectinatus,s__Pectinatus_brassicae,t__SGB83692,0,0,0.00488,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Halobacillus,s__Halobacillus_litoralis,t__SGB109787,0,0,0.00479,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__GGB131183,s__GGB131183_SGB183046,t__SGB183046,0,0,0.00479,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_nov_GSS16,t__SGB175342,0,0,0.00471,0,0,Named species
+k__Bacteria,p__Firmicutes,c__CFGB40002,o__OFGB40002,f__FGB40002,g__GGB42066,s__GGB42066_SGB59206,t__SGB59206,0,0,0.00467,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium_squillarum,t__SGB34201,0,0,0.0046,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__GGB49933,s__GGB49933_SGB69928,t__SGB69928,0,0,0.00452,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Halomonas,s__Halomonas_campaniensis,t__SGB11840,0,0,0.00451,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Dietziaceae,g__Dietzia,s__Dietzia_aerolata,t__SGB66231,0,0,0.00447,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__CFGB24175,o__OFGB24175,f__FGB24175,g__GGB108659,s__GGB108659_SGB193402,t__SGB193402,0,0,0.00443,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Loktanella,s__Loktanella_sp_PT4BL,t__SGB24320,0,0,0.00414,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__GGB43300,s__GGB43300_SGB90439,t__SGB90439,0,0,0.00396,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Chryseomicrobium,s__Chryseomicrobium_excrementi,t__SGB7505,0,0,0.00386,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Alteromonadales,f__Idiomarinaceae,g__Pseudidiomarina,s__Pseudidiomarina_taiwanensis,t__SGB30821,0,0,0.00381,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Kushneria,s__Kushneria_konosiri,t__SGB22929,0,0,0.00358,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Dietziaceae,g__Dietzia,s__Dietzia_cinnamea,t__SGB15766,0,0,0.00342,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_huizhouensis,t__SGB111666,0,0,0.00335,0,0,Named species
+k__Archaea,p__Methanobacteriota,c__Methanobacteria,o__Methanobacteriales,f__Methanobacteriaceae,g__Methanobrevibacter,s__Methanobrevibacter_smithii,t__SGB714,0,0,0.00335,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__CFGB2312,o__OFGB2312,f__FGB2312,g__GGB42957,s__GGB42957_SGB57748,t__SGB57748,0,0,0.00334,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Roseivivax,s__Roseivivax_marinus,t__SGB10825,0,0,0.00329,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus_fermentum,t__SGB7106,0,0,0.00321,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Ornithinimicrobiaceae,g__Serinicoccus,s__Serinicoccus_sediminis,t__SGB34101,0,0,0.00316,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Marivivens,s__Marivivens_donghaensis,t__SGB10880,0,0,0.00312,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_luteum,t__SGB16859,0,0,0.00309,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Promicromonosporaceae,g__Isoptericola,s__Isoptericola_chiayiensis,t__SGB87505,0,0,0.00309,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Cereibacter,s__Cereibacter_sphaeroides,t__SGB31416,0,0,0.00307,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Novilysobacter,s__Novilysobacter_arseniciresistens,t__SGB12528,0,0,0.00306,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Marivivens,s__Marivivens_niveibacter,t__SGB182065,0,0,0.00304,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Tsuneonella,s__Tsuneonella_flava,t__SGB31591,0,0,0.00304,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__CFGB463,o__OFGB463,f__FGB463,g__GGB46612,s__GGB46612_SGB64482,t__SGB64482,0,0,0.00301,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Eubacteriales,f__Clostridiaceae,g__Clostridiaceae_unclassified,s__Clostridiaceae_bacterium_HFYG_1003,t__SGB109643,0,0,0.00298,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__GGB110760,s__GGB110760_SGB195771,t__SGB195771,0,0,0.00295,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__GGB98133,s__GGB98133_SGB138700,t__SGB138700,0,0,0.0029,0,0,Undescribed
+k__Eukaryota,p__Ascomycota,c__Saccharomycetes,o__Saccharomycetales,f__Debaryomycetaceae,g__Candida,s__Candida_tropicalis,t__EUK5482,0,0,0.0029,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Oceanospirillaceae,g__Marinobacterium,s__Marinobacterium_sp_LSUCC0821,t__SGB81404,0,0,0.00287,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium_squillarum,t__SGB55775,0,0,0.00286,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Ornithinimicrobiaceae,g__Ornithinimicrobium,s__Ornithinimicrobium_humiphilum,t__SGB87592,0,0,0.00284,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter_coccoides,t__SGB92572,0,0,0.00283,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Alteromonadales,f__Alteromonadaceae,g__Alkalimarinus,s__Alkalimarinus_sediminis,t__SGB110530,0,0,0.00273,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_xiaoshiensis,t__SGB208790,0,0,0.0027,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Aurantiacibacter,s__Aurantiacibacter_xanthus,t__SGB31639,0,0,0.0027,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_maritypicum,t__SGB16873,0,0,0.00262,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Halomonadaceae,g__Cobetia,s__Cobetia_marina,t__SGB11854,0,0,0.00258,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter_hormaechei,t__SGB10130,0,0,0.00239,0,0.03928,Named species
+k__Bacteria,p__Bacteroidota,c__CFGB42410,o__OFGB42410,f__FGB42410,g__GGB46774,s__GGB46774_SGB64663,t__SGB64663,0,0,0.00233,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Intrasporangiaceae,g__Janibacter,s__Janibacter_anophelis,t__SGB34114,0,0,0.00231,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Corynebacteriaceae,g__Corynebacterium,s__Corynebacterium_phoceense,t__SGB17119,0,0,0.00222,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Arthrobacter,s__Arthrobacter_koreensis,t__SGB35057,0,0,0.00219,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Corynebacteriaceae,g__Corynebacterium,s__Corynebacterium_dentalis,t__SGB17038,0,0,0.00216,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_sp_MBLB3053,t__SGB181691,0,0,0.00204,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Brevundimonas,s__Brevundimonas_poindexterae,t__SGB206483,0,0,0.00203,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium_saurashtrense,t__SGB23788,0,0,0.00195,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Polaribacter,s__Polaribacter_gangjinensis,t__SGB21752,0,0,0.00192,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_p3_SID336,t__SGB111225,0,0,0.00175,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Actinomycetales,f__Actinomycetaceae,g__Schaalia,s__Schaalia_sp_JY_X169,t__SGB86838,0,0,0.00175,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Brevundimonas,s__Brevundimonas_vesicularis,t__SGB11742_group,0,0,0.00173,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Promicromonosporaceae,g__Isoptericola,s__Isoptericola_SGB129906,t__SGB129906,0,0,0.00171,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_koreensis,t__SGB11633,0,0,0.00166,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Saprospiria,o__Saprospirales,f__Saprospirales_unclassified,g__Saprospirales_unclassified,s__Saprospirales_bacterium_GYS_P2D,t__SGB80004,0,0,0.00162,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Coriobacteriia,o__Coriobacteriales,f__Coriobacteriaceae,g__Collinsella,s__Collinsella_aerofaciens,t__SGB14535_group,0,0,0.00155,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Rhodococcoides,s__Rhodococcoides_kroppenstedtii,t__SGB15803,0,0,0.00153,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Thiotrichales,f__Piscirickettsiaceae,g__GGB8990,s__GGB8990_SGB13861,t__SGB13861,0,0,0.00152,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_sp_AM39_5BH,t__SGB24982,0,0,0.00152,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Nocardioidaceae,g__Nocardioides,s__Nocardioides_malaquae,t__SGB87644,0,0,0.00151,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_arborescens,t__SGB23872,0,0,0.00149,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Bifidobacteriales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium_minimum,t__SGB17229,0,0,0.00147,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Clostridia,o__Peptostreptococcales,f__Peptostreptococcaceae,g__Romboutsia,s__Romboutsia_timonensis,t__SGB6148,0,0,0.00147,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillales_unclassified,g__Exiguobacterium,s__Exiguobacterium_acetylicum,t__SGB8325,0,0,0.00145,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__GGB68165,s__GGB68165_SGB140159,t__SGB140159,0,0,0.00144,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_telephonicum,t__SGB34935,0,0,0.00141,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccaceae_unclassified,s__Rhodobacteraceae_bacterium_EhC02,t__SGB10792,0,0,0.00139,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Pontibacillus,s__Pontibacillus_sp_HN14,t__SGB109794,0,0,0.00139,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Roseivivax,s__Roseivivax_halodurans,t__SGB10826,0,0,0.00137,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_binotii,t__SGB55568,0,0,0.00129,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__CFGB31980,o__OFGB31980,f__FGB31980,g__GGB60258,s__GGB60258_SGB82204,t__SGB82204,0,0,0.00117,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Bifidobacteriales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium_longum,t__SGB17248,0,0,0.00116,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Bacteroides,s__Bacteroides_graminisolvens,t__SGB1924,0,0,0.00114,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sufflavum,t__SGB55569,0,0,0.00114,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_C7_2022,t__SGB175400,0,0,0.00106,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Loktanella,s__Loktanella_gaetbuli,t__SGB10550,0,0,0.00105,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Leucobacter,s__Leucobacter_sp_Psy1,t__SGB111210,0,0,0.00104,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flavobacteriaceae_unclassified,s__Flavobacteriaceae_bacterium_NBU2977,t__SGB109301,0,0,0.001,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Promicromonosporaceae,g__Isoptericola,s__Isoptericola_jiangsuensis,t__SGB16060,0,0,9.7e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Aequorivita,s__Aequorivita_SGB2713,t__SGB2713,0,0,0.00093000000000000005,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella_pneumoniae,t__SGB10115_group,0,0,8.9e-4,0,0,Named species
+k__Archaea,p__Methanobacteriota,c__Methanobacteria,o__Methanobacteriales,f__Methanobacteriaceae,g__GGB53691,s__GGB53691_SGB74832,t__SGB74832,0,0,8.9e-4,0,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caryophanaceae,g__Chryseomicrobium,s__Chryseomicrobium_aureum,t__SGB94660,0,0,8.3e-4,0,0,Named species
+k__Bacteria,p__Deinococcota,c__Deinococci,o__Deinococcales,f__Deinococcaceae,g__Deinococcus,s__Deinococcus_soli_ex_Cha_et_al_2016,t__SGB17545,0,0,7.9e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Pelagovum,s__Pelagovum_pacificum,t__SGB90542,0,0,7.5e-4,0,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus_lactis,t__SGB7985,0,0,7.4e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__GGB132819,s__GGB132819_SGB182059,t__SGB182059,0,0,7.3e-4,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Corynebacteriaceae,g__Corynebacterium,s__Corynebacterium_sp_SCR221107,t__SGB152359,0,0,7.2e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Seohaeicola,s__Seohaeicola_sp_4SK31,t__SGB60579,0,0,7.1e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Stappiaceae,g__Roseibium,s__Roseibium_aestuarii,t__SGB89439,0,0,7.1e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Nitrosomonadales,f__Nitrosomonadales_unclassified,g__Nitrosomonadales_unclassified,s__beta_proteobacterium_KB13,t__SGB205526,0,0,6.9e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Rhodovulum,s__Rhodovulum_sp_FJ3,t__SGB24300,0,0,6.5e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Propionibacteriaceae,g__Propioniciclava,s__Propioniciclava_sp_MC1595,t__SGB87720,0,0,6.5e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Nesterenkonia,s__Nesterenkonia_massiliensis,t__SGB35123,0,0,6.4e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Luteimonas,s__Luteimonas_sp_JM171,t__SGB12515,0,0,6.1e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Zunongwangia,s__Zunongwangia_pacifica,t__SGB109207,0,0,6e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Kocuria,s__Kocuria_SGB98773,t__SGB98773,0,0,5.8e-4,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_yeei,t__SGB10717,0,0,5.7e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Salinibacterium,s__Salinibacterium_amurskyense,t__SGB16757,0,0,5.1e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Oceanospirillales,f__Balneatrichaceae,g__GGB63480,s__GGB63480_SGB85789,t__SGB85789,0,0,5e-4,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Cellvibrionales,f__Microbulbiferaceae,g__Microbulbifer,s__Microbulbifer_sp_HZ11,t__SGB32408,0,0,4.9e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Halopseudomonas,s__Halopseudomonas_pachastrellae,t__SGB12061,0,0,4.8e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rickettsiales,f__Candidatus_Midichloriaceae,g__Candidatus_Aquarickettsia,s__Candidatus_Aquarickettsia_rohweri,t__SGB28930,0,0,4.5e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_hydrocarbonoxydans,t__SGB16881,0,0,4.4e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Altererythrobacter,s__Altererythrobacter_sp_C41,t__SGB94154,0,0,4.4e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Zunongwangia,s__Zunongwangia_sp_HGR_M22,t__SGB195660,0,0,4.1e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Mesonia,s__Mesonia_maritima,t__SGB195674,0,0,4.1e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Aurantiacibacter,s__Aurantiacibacter_SGB38248,t__SGB38248,0,0,4e-4,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Luteimonas,s__Luteimonas_padinae,t__SGB206647,0,0,3.9e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_algicida,t__SGB90067,0,0,3.8e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_dokdonensis,t__SGB11648,0,0,3.7e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__CFGB41017,o__OFGB41017,f__FGB41017,g__GGB43700,s__GGB43700_SGB177887,t__SGB177887,0,0,3.6e-4,0,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Pseudooceanicola,s__Pseudooceanicola_onchidii,t__SGB56727,0,0,3.6e-4,0,0,Named species
+k__Bacteria,p__Planctomycetota,c__CFGB45719,o__OFGB45719,f__FGB45719,g__GGB45720,s__GGB45720_SGB63440,t__SGB63440,0,0,3.6e-4,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_foliorum,t__SGB16880,0,0,3.5e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Gordoniaceae,g__Gordonia,s__Gordonia_namibiensis,t__SGB15793,0,0,3.2e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Propionibacteriaceae,g__Tessaracoccus,s__Tessaracoccus_lapidicaptus,t__SGB15914,0,0,3.1e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__GGB68272,s__GGB68272_SGB92186,t__SGB92186,0,0,2.9e-4,0,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacteriaceae_unclassified,s__Microbacteriaceae_bacterium_PS02066,t__SGB175395,0,0,2.5e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Qipengyuania,s__Qipengyuania_mesophila,t__SGB111652,0,0,2.2e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Roseobacteraceae,g__Celeribacter,s__Celeribacter_halophilus,t__SGB206422,0,0,2.2e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_1_5R,t__SGB16879,0,0,2.1e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_oleivorans,t__SGB111247,0,0,2e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Aurantiacibacter,s__Aurantiacibacter_odishensis,t__SGB31599,0,0,1.9e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Mesonia,s__Mesonia_mobilis,t__SGB27967,0,0,1.7e-4,0,0,Named species
+k__Bacteria,p__Bacteroidota,c__Cytophagia,o__Cytophagales,f__Leadbetterellaceae,g__Jiulongibacter,s__Jiulongibacter_sediminis,t__SGB3365,0,0,1.4e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Rhodococcus,s__Rhodococcus_sp_HNM0569,t__SGB86951,0,0,1.4e-4,0,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_testaceum,t__SGB111235,0,0,1.3e-4,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodobacterales,f__Paracoccaceae,g__Paracoccus,s__Paracoccus_aerius,t__SGB90455,0,0,8e-5,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomonadales,f__Hyphomonadaceae,g__Henriciella,s__Henriciella_algicola,t__SGB206406,0,0,7e-5,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Erythrobacteraceae,g__Aurantiacibacter,s__Aurantiacibacter_suaedae,t__SGB56299,0,0,5e-5,0,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB65997,s__GGB65997_SGB89404,t__SGB89404,0,0,0,18.19281,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB72035,s__GGB72035_SGB133334,t__SGB133334,0,0,0,14.53139,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB66000,s__GGB66000_SGB89407,t__SGB89407,0,0,0,12.48023,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__GGB93887,s__GGB93887_SGB129746,t__SGB129746,0,0,0,8.9062,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Betaproteobacteria_unclassified,f__Betaproteobacteria_unclassified,g__GGB91362,s__GGB91362_SGB134782,t__SGB134782,0,0,0,6.11485,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB65999,s__GGB65999_SGB89406,t__SGB89406,0,0,0,5.61923,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_tropica,t__SGB110283,0,0,0,4.20649,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB66219,s__GGB66219_SGB89725,t__SGB89725,0,0,0,3.10965,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_mimosarum,t__SGB32804,0,0,0,2.97439,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_unamae,t__SGB22576,0,0,0,2.83193,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__GGB64396,s__GGB64396_SGB129711,t__SGB129711,0,0,0,2.36536,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Sinomonas,s__Sinomonas_atrocyanea,t__SGB175572,0,0,0,2.08949,0,Named species
+k__Bacteria,p__Verrucomicrobiota,c__CFGB2153,o__OFGB2153,f__FGB2153,g__GGB95786,s__GGB95786_SGB125685,t__SGB125685,0,0,0,1.69309,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Leifsonia,s__Leifsonia_shinshuensis,t__SGB87840,0,0,0,1.38203,0.81164,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Heyndrickxia,s__Heyndrickxia_acidicola,t__SGB30280,0,0,0,1.24959,0,Named species
+k__Bacteria,p__Actinomycetota,c__Acidimicrobiia,o__Acidimicrobiales,f__Acidimicrobiaceae,g__GGB64188,s__GGB64188_SGB86601,t__SGB86601,0,0,0,1.2335,0,Undescribed
+k__Bacteria,p__Planctomycetota,c__CFGB93177,o__OFGB93177,f__FGB93177,g__GGB61685,s__GGB61685_SGB127484,t__SGB127484,0,0,0,1.14766,0,Undescribed
+k__Bacteria,p__Acidobacteriota,c__CFGB15833,o__OFGB15833,f__FGB15833,g__GGB93629,s__GGB93629_SGB173533,t__SGB173533,0,0,0,1.06754,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Treboniaceae,g__GGB93990,s__GGB93990_SGB129990,t__SGB129990,0,0,0,0.96213,0,Undescribed
+k__Bacteria,p__Myxococcota,c__Myxococcia,o__Myxococcales,f__Myxococcaceae,g__GGB93454,s__GGB93454_SGB132005,t__SGB132005,0,0,0,0.6985,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Hyphomicrobiaceae,g__GGB66014,s__GGB66014_SGB133091,t__SGB133091,0,0,0,0.64651,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_tropica,t__SGB12985,0,0,0,0.59784,0.02543,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_sp_Tr_20389,t__SGB93664,0,0,0,0.55541,0,Named species
+k__Bacteria,p__Myxococcota,c__Myxococcia,o__Myxococcales,f__Anaeromyxobacteraceae,g__GGB93475,s__GGB93475_SGB132078,t__SGB132078,0,0,0,0.46238,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_sp_HD33_4,t__SGB32734,0,0,0,0.46202,0,Named species
+k__Bacteria,p__Acidobacteriota,c__CFGB80614,o__OFGB80614,f__FGB80614,g__GGB89966,s__GGB89966_SGB126829,t__SGB126829,0,0,0,0.40432,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Neobacillus,s__Neobacillus_massiliamazoniensis,t__SGB7574,0,0,0,0.39507,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB37354,s__GGB37354_SGB56640,t__SGB56640,0,0,0,0.31051,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Massilia,s__Massilia_terrae,t__SGB110315,0,0,0,0.29398,0,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Neisseriales,f__Neisseriaceae,g__Crenobacter,s__Crenobacter_oryzisoli,t__SGB179279,0,0,0,0.27771,0,Named species
+k__Bacteria,p__Thermodesulfobacteriota,c__CFGB8491,o__OFGB8491,f__FGB8491,g__GGB90662,s__GGB90662_SGB127188,t__SGB127188,0,0,0,0.26776,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB92565,s__GGB92565_SGB133354,t__SGB133354,0,0,0,0.22972,0,Undescribed
+k__Bacteria,p__Thermodesulfobacteriota,c__CFGB79996,o__OFGB79996,f__FGB79996,g__GGB88573,s__GGB88573_SGB124808,t__SGB124808,0,0,0,0.1997,0,Undescribed
+k__Bacteria,p__Myxococcota,c__Myxococcia,o__Myxococcales,f__Myxococcaceae,g__GGB93529,s__GGB93529_SGB132218,t__SGB132218,0,0,0,0.17057,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Treboniaceae,g__Trebonia,s__Trebonia_kvetii,t__SGB87004,0,0,0,0.12594,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Treboniaceae,g__GGB52798,s__GGB52798_SGB73712,t__SGB73712,0,0,0,0.12449,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Betaproteobacteria_unclassified,f__Betaproteobacteria_unclassified,g__GGB91352,s__GGB91352_SGB134892,t__SGB134892,0,0,0,0.12262,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Paenibacillaceae,g__Aneurinibacillus,s__Aneurinibacillus_uraniidurans,t__SGB154475,0,0,0,0.12174,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Treboniaceae,g__GGB94008,s__GGB94008_SGB130022,t__SGB130022,0,0,0,0.12026,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__Mycobacterium,s__Mycobacterium_sp_SMC_2,t__SGB110834,0,0,0,0.09973,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Leifsonia,s__Leifsonia_sp_TF02_11,t__SGB93187,0,0,0,0.09827,0,Named species
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Gottfriedia,s__Gottfriedia_endophytica,t__SGB94640,0,0,0,0.08871,0,Named species
+k__Bacteria,p__Pseudomonadota,c__CFGB77274,o__OFGB77274,f__FGB77274,g__GGB92506,s__GGB92506_SGB133129,t__SGB133129,0,0,0,0.07293,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__GGB64439,s__GGB64439_SGB86925,t__SGB86925,0,0,0,0.07241,0,Undescribed
+k__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Paenibacillaceae,g__Paenibacillus,s__Paenibacillus_sp_HW567,t__SGB29222,0,0,0,0.06662,0,Named species
+k__Archaea,p__Methanobacteriota,c__CFGB10638,o__OFGB10638,f__FGB10638,g__GGB54174,s__GGB54174_SGB75380,t__SGB75380,0,0,0,0.06156,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodospirillales,f__Dongiaceae,g__GGB66392,s__GGB66392_SGB132736,t__SGB132736,0,0,0,0.05789,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Beijerinckiaceae,g__GGB65847,s__GGB65847_SGB89195,t__SGB89195,0,0,0,0.05728,0,Undescribed
+k__Bacteria,p__Acidobacteriota,c__CFGB63353,o__OFGB63353,f__FGB63353,g__GGB71614,s__GGB71614_SGB126404,t__SGB126404,0,0,0,0.04039,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__CFGB44487,o__OFGB44487,f__FGB44487,g__GGB91419,s__GGB91419_SGB134682,t__SGB134682,0,0,0,0.04001,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Hyphomicrobiaceae,g__GGB66014,s__GGB66014_SGB133090,t__SGB133090,0,0,0,0.03861,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Treboniaceae,g__GGB52803,s__GGB52803_SGB86999,t__SGB86999,0,0,0,0.03333,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodospirillales,f__Dongiaceae,g__GGB92323,s__GGB92323_SGB132845,t__SGB132845,0,0,0,0.03267,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Methylocystaceae,g__Methylocystis,s__Methylocystis_bryophila,t__SGB11222,0,0,0,0.03257,0,Named species
+k__Bacteria,p__Firmicutes,c__CFGB80250,o__OFGB80250,f__FGB80250,g__GGB88569,s__GGB88569_SGB123343,t__SGB123343,0,0,0,0.03211,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Rhodanobacteraceae,g__Dyella,s__Dyella_amyloliquefaciens,t__SGB33008,0,0,0,0.0321,0,Named species
+k__Bacteria,p__Acidobacteriota,c__CFGB39337,o__OFGB39337,f__FGB39337,g__GGB89977,s__GGB89977_SGB126808,t__SGB126808,0,0,0,0.03064,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__Variovorax,s__Variovorax_sp_HW608,t__SGB12767,0,0,0,0.02535,0,Named species
+k__Bacteria,p__Thermodesulfobacteriota,c__CFGB8491,o__OFGB8491,f__FGB8491,g__GGB90655,s__GGB90655_SGB127159,t__SGB127159,0,0,0,0.02459,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__CFGB14846,o__OFGB14846,f__FGB14846,g__GGB91732,s__GGB91732_SGB134135,t__SGB134135,0,0,0,0.02354,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Nocardiaceae,g__Prescottella,s__Prescottella_agglutinans,t__SGB175811,0,0,0,0.02297,0,Named species
+k__Bacteria,p__Acidobacteriota,c__CFGB14958,o__OFGB14958,f__FGB14958,g__GGB89942,s__GGB89942_SGB126742,t__SGB126742,0,0,0,0.02288,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Sinomonas,s__Sinomonas_atrocyanea,t__SGB175573,0,0,0,0.0198,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Mycobacteriales,f__Mycobacteriaceae,g__Mycobacterium,s__Mycobacterium_conspicuum,t__SGB15643,0,0,0,0.01959,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Micrococcaceae,g__Sinomonas,s__Sinomonas_albida,t__SGB55605,0,0,0,0.01926,0.02644,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Leifsonia,s__Leifsonia_shinshuensis,t__SGB111263,0,0,0,0.01851,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Intrasporangiaceae,g__Oryzihumus,s__Oryzihumus_SGB130264,t__SGB130264,0,0,0,0.01751,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB44766,s__GGB44766_SGB133340,t__SGB133340,0,0,0,0.01135,0,Undescribed
+k__Bacteria,p__Planctomycetota,c__CFGB93171,o__OFGB93171,f__FGB93171,g__GGB90876,s__GGB90876_SGB127500,t__SGB127500,0,0,0,0.00949,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Massilia,s__Massilia_agilis,t__SGB110314,0,0,0,0.00814,0,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Catenulisporales,f__Actinospicaceae,g__Actinospica,s__Actinospica_acidithermotolerans,t__SGB93414,0,0,0,0.0074,0,Named species
+k__Bacteria,p__Gemmatimonadota,c__CFGB5367,o__OFGB5367,f__FGB5367,g__GGB92869,s__GGB92869_SGB131016,t__SGB131016,0,0,0,0.00735,0,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Streptosporangiales,f__Treboniaceae,g__GGB52803,s__GGB52803_SGB130045,t__SGB130045,0,0,0,0.00731,0,Undescribed
+k__Bacteria,p__Thermodesulfobacteriota,c__CFGB8491,o__OFGB8491,f__FGB8491,g__GGB90658,s__GGB90658_SGB127212,t__SGB127212,0,0,0,0.00253,0,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_bananamidigenes,t__SGB33158,0,0,0,0,17.38824,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_maltophilia,t__SGB12456,0,0,0,0,16.46364,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_nitroreducens,t__SGB12325,0,0,0,0,9.69137,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_paucimobilis,t__SGB11675,0,0,0,0,7.40256,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__Curvibacter,s__Curvibacter_gracilis,t__SGB32622,0,0,0,0,3.39111,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_sp_GCEP_101,t__SGB12322,0,0,0,0,2.17751,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_vanderleydeniana,t__SGB177727,0,0,0,0,1.82802,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_asiatica,t__SGB12295,0,0,0,0,1.46118,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_haemolytica,t__SGB33220,0,0,0,0,1.33862,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Cupriavidus,s__Cupriavidus_pauculus,t__SGB12933,0,0,0,0,1.12728,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_junii,t__SGB10370,0,0,0,0,0.83059,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingobium,s__Sphingobium_yanoikuyae,t__SGB11614,0,0,0,0,0.59336,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Massilia,s__Massilia_norwichensis,t__SGB110310,0,0,0,0,0.41088,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_ursingii,t__SGB10372,0,0,0,0,0.34987,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter_roggenkampii,t__SGB10139_group,0,0,0,0,0.33765,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Erwiniaceae,g__Pantoea,s__Pantoea_rwandensis,t__SGB10180,0,0,0,0,0.31552,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__Comamonas,s__Comamonas_testosteroni,t__SGB12681,0,0,0,0,0.30557,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Polynucleobacter,s__Polynucleobacter_sp_HIN8,t__SGB60308,0,0,0,0,0.29542,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_johnsonii,t__SGB10398,0,0,0,0,0.28683,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__Streptomyces,s__Streptomyces_sp_PsTaAH_130,t__SGB207638,0,0,0,0,0.27129,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Herbaspirillum,s__Herbaspirillum_aquaticum,t__SGB12895,0,0,0,0,0.26239,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_maltophilia,t__SGB12453,0,0,0,0,0.19814,Named species
+k__Bacteria,p__Deinococcota,c__Deinococci,o__Deinococcales,f__Deinococcaceae,g__Deinococcus,s__Deinococcus_aquiradiocola,t__SGB86262,0,0,0,0,0.17936,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Pandoraea,s__Pandoraea_sputorum,t__SGB12910,0,0,0,0,0.16989,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Neisseriales,f__Chromobacteriaceae,g__Aquitalea,s__Aquitalea_pelogenes,t__SGB13073,0,0,0,0,0.15514,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__Delftia,s__Delftia_acidovorans,t__SGB12680,0,0,0,0,0.1466,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Novosphingobium,s__Novosphingobium_pokkalii,t__SGB73452,0,0,0,0,0.14462,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Curtobacterium,s__Curtobacterium_citreum,t__SGB16804,0,0,0,0,0.13771,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_maltophilia,t__SGB12460,0,0,0,0,0.12647,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_soli,t__SGB10374,0,0,0,0,0.12123,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__Streptomyces,s__Streptomyces_bauhiniae,t__SGB34525,0,0,0,0,0.11513,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Polynucleobacter,s__Polynucleobacter_sp_MWH_UH25E,t__SGB94475,0,0,0,0,0.11412,Named species
+k__Bacteria,p__Bacteroidota,c__Sphingobacteriia,o__Sphingobacteriales,f__Sphingobacteriaceae,g__GGB110264,s__GGB110264_SGB196191,t__SGB196191,0,0,0,0,0.11256,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__Comamonas,s__Comamonas_testosteroni,t__SGB12683,0,0,0,0,0.11217,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Polynucleobacter,s__Polynucleobacter_sp_31A_FELB,t__SGB110164,0,0,0,0,0.10139,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_maltophilia,t__SGB12459,0,0,0,0,0.09667,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter_cloacae,t__SGB10131,0,0,0,0,0.09648,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Intrasporangiaceae,g__Lapillicoccus,s__Lapillicoccus_jejuensis,t__SGB87586,0,0,0,0,0.09084,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Halopseudomonas,s__Pseudomonas_denitrificans_nom_rej,t__SGB12324,0,0,0,0,0.08679,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Neisseriales,f__Chitinibacteraceae,g__Amantichitinum,s__Amantichitinum_ursilacus,t__SGB13095,0,0,0,0,0.08438,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_galbum,t__SGB175380,0,0,0,0,0.08372,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_hominis,t__SGB16912,0,0,0,0,0.08262,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_sp_LRP2_20,t__SGB93603,0,0,0,0,0.06982,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Alcaligenaceae,g__Achromobacter,s__Achromobacter_xylosoxidans,t__SGB13140,0,0,0,0,0.0647,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter_vivianii,t__SGB10355,0,0,0,0,0.05751,Named species
+k__Archaea,p__Methanobacteriota,c__Methanomicrobia,o__Methanomicrobiales,f__Methanoregulaceae,g__GGB54137,s__GGB54137_SGB147869,t__SGB147869,0,0,0,0,0.0488,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Polynucleobacter,s__Polynucleobacter_sp_MWH_UH2A,t__SGB94476,0,0,0,0,0.04242,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Roseiarcaceae,g__Roseiarcus,s__Roseiarcus_fermentans,t__SGB24436,0,0,0,0,0.04236,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_beigongshangi,t__SGB56346,0,0,0,0,0.03793,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_testaceum,t__SGB87900,0,0,0,0,0.03569,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Sphaerotilaceae,g__Roseateles,s__Roseateles_chitosanitabidus,t__SGB32549,0,0,0,0,0.03536,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_maltophilia,t__SGB12450,0,0,0,0,0.03403,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Caulobacter,s__Caulobacter_vibrioides,t__SGB11763,0,0,0,0,0.029760000000000002,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Curtobacterium,s__Curtobacterium_luteum,t__SGB34971,0,0,0,0,0.02904,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Polynucleobacter,s__Polynucleobacter_tropicus,t__SGB80873,0,0,0,0,0.02887,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_pseudosanguinis,t__SGB90166,0,0,0,0,0.02857,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_SGB73465,t__SGB73465,0,0,0,0,0.02793,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_cyclobalanopsidis,t__SGB22682,0,0,0,0,0.02689,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Beijerinckiaceae,g__Beijerinckiaceae_unclassified,s__Beijerinckiaceae_bacterium_RH_AL8,t__SGB184633,0,0,0,0,0.02411,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Paraburkholderia,s__Paraburkholderia_sp_Ac_20340,t__SGB93659,0,0,0,0,0.02219,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__GGB94264,s__GGB94264_SGB130266,t__SGB130266,0,0,0,0,0.02204,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Comamonadaceae,g__Variovorax,s__Variovorax_paradoxus,t__SGB32592,0,0,0,0,0.02066,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Curtobacterium,s__Curtobacterium_oceanosedimentum,t__SGB16801,0,0,0,0,0.01869,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Massilia,s__Massilia_sp_Bi118,t__SGB110311,0,0,0,0,0.0179,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__Streptacidiphilus,s__Streptacidiphilus_jiangxiensis,t__SGB16116,0,0,0,0,0.01739,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas_SGB90165,t__SGB90165,0,0,0,0,0.01726,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Methylobacteriaceae,g__Methylobacterium,s__Methylobacterium_sp_J_067,t__SGB99570,0,0,0,0,0.01626,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas,s__Pseudomonas_lactis,t__SGB66296,0,0,0,0,0.01319,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Moraxellales,f__Moraxellaceae,g__Moraxella,s__Moraxella_osloensis,t__SGB10439,0,0,0,0,0.01254,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Yersiniaceae,g__Serratia,s__Serratia_marcescens,t__SGB206340,0,0,0,0,0.01229,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter_cancerogenus,t__SGB10181,0,0,0,0,0.01167,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium_sp_RU1D,t__SGB16895,0,0,0,0,0.01165,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Herbaspirillum,s__Herbaspirillum_SGB88640,t__SGB88640,0,0,0,0,0.00987,Undescribed
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__Streptomyces,s__Streptomyces_murinus,t__SGB16189,0,0,0,0,0.00949,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__Flavobacterium,s__Flavobacterium_stagni,t__SGB28155,0,0,0,0,0.00892,Named species
+k__Bacteria,p__Bacteroidota,c__CFGB73567,o__OFGB73567,f__FGB73567,g__GGB24405,s__GGB24405_SGB36246,t__SGB36246,0,0,0,0,0.00876,Undescribed
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Weeksellaceae,g__Chryseobacterium,s__Chryseobacterium_gambrini,t__SGB69901,0,0,0,0,0.0086,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Methylococcales,f__Methylococcaceae,g__Methylovulum,s__Methylovulum_psychrotolerans,t__SGB13784,0,0,0,0,0.00798,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Yokenella,s__Yokenella_regensburgei,t__SGB10104,0,0,0,0,0.00769,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Novosphingobium,s__Novosphingobium_sp_KACC_22771,t__SGB182845,0,0,0,0,0.0063,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Oxalobacteraceae,g__Duganella,s__Duganella_qianjiadongensis,t__SGB88606,0,0,0,0,0.00624,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Rhizobiaceae,g__Agrobacterium,s__Agrobacterium_pusense,t__SGB11087,0,0,0,0,0.00594,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Rhodospirillales,f__Azospirillaceae,g__Azospirillum,s__Azospirillum_cavernae,t__SGB31843,0,0,0,0,0.00551,Named species
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Stenotrophomonas,s__Stenotrophomonas_maltophilia,t__SGB12462,0,0,0,0,0.00503,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Intrasporangiaceae,g__Intrasporangium,s__Intrasporangium_flavum,t__SGB55797,0,0,0,0,0.00436,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Rhizobiaceae,g__Shinella,s__Shinella_sp_XGS7,t__SGB110351,0,0,0,0,0.00392,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Kitasatosporales,f__Streptomycetaceae,g__Streptomyces,s__Streptomyces_tropicalis,t__SGB176315,0,0,0,0,0.00334,Named species
+k__Bacteria,p__Pseudomonadota,c__Betaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Polynucleobacter,s__Polynucleobacter_sp_MWH_Spelu_300_X4,t__SGB94462,0,0,0,0,0.00308,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Propionibacteriales,f__Nocardioidaceae,g__Nocardioides,s__Nocardioides_sp_TRM66260_LWL,t__SGB111091,0,0,0,0,0.00299,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Rhizobiaceae,g__Agrobacterium,s__Agrobacterium_larrymoorei,t__SGB32151,0,0,0,0,0.00254,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Hyphomicrobiales,f__Nitrobacteraceae,g__GGB132275,s__GGB132275_SGB184675,t__SGB184675,0,0,0,0,0.00247,Undescribed
+k__Bacteria,p__Pseudomonadota,c__Gammaproteobacteria,o__Lysobacterales,f__Lysobacteraceae,g__Pseudoxanthomonas,s__Pseudoxanthomonas_winnipegensis,t__SGB12440,0,0,0,0,0.00204,Named species
+k__Bacteria,p__Actinomycetota,c__Actinomycetes,o__Micrococcales,f__Microbacteriaceae,g__Leifsonia,s__Leifsonia_shinshuensis,t__SGB87839,0,0,0,0,0.00153,Named species
+k__Bacteria,p__Pseudomonadota,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Novosphingobium,s__Novosphingobium_jiangmenense,t__SGB94145,0,0,0,0,8.7e-4,Named species
+k__Bacteria,p__Bacteroidota,c__Flavobacteriia,o__Flavobacteriales,f__Flavobacteriaceae,g__GGB57431,s__GGB57431_SGB79004,t__SGB79004,0,0,0,0,6.5e-4,Undescribed

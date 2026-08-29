@@ -1,0 +1,7 @@
+class,name,genes,pct
+GT,Glycosyltransferases,5330,43.4
+GH,Glycoside hydrolases,4605,37.5
+CBM,Carbohydrate-binding modules,941,7.7
+CE,Carbohydrate esterases,809,6.6
+AA,Auxiliary activities,502,4.1
+PL,Polysaccharide lyases,100,0.8
