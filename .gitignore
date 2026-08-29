@@ -17,3 +17,6 @@ Thumbs.db
 # Local backups
 *.bak
 *.bak_*
+
+# Never commit a clone of this repository inside itself
+hongo-2026-petase-metagenomics/
