@@ -866,8 +866,22 @@ write_csv(fig7_data %>% select(Bin, Label, Genus, Species, Class, Count),
 
 message("[5.3] Figure S6 - top-100 CAZyme subclasses")
 
-cazyme_subclasses <- read_excel(file.path(data_dir, "subclass_CAZyme.xlsx")) %>%
+## The dbCAN2 export carries five rows whose label is an EC number rather than
+## a CAZy family (2.4.1.12, 2.4.1.-, 3.2.1.23, 3.2.1.86, 3.2.1.133; 6 genes in
+## total). They are annotations that leaked out of the "family|EC" strings of
+## the dbCAN2 overview file, not CAZyme families, so they are dropped here.
+## They all fall far outside the top 100 (ranks 339 and 420-423, 1-2 genes
+## each), so Figure S6 is unchanged; only the family count is affected: the
+## catalogue holds 418 CAZy families and subfamilies, not the 423 rows of the
+## spreadsheet.
+cazyme_subclasses_all <- read_excel(file.path(data_dir, "subclass_CAZyme.xlsx")) %>%
   rename(subclass = Sub_CAZymes, genes = number) %>%
+  filter(!str_detect(subclass, "^[0-9]+[.][0-9]+[.][0-9]+[.]"))
+
+message("    CAZy families and subfamilies: ", nrow(cazyme_subclasses_all),
+        " | genes: ", sum(cazyme_subclasses_all$genes))
+
+cazyme_subclasses <- cazyme_subclasses_all %>%
   arrange(desc(genes)) %>%
   slice_head(n = 100) %>%
   mutate(class = str_extract(subclass, "^[A-Z]+")) %>%
