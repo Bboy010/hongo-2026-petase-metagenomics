@@ -782,9 +782,15 @@ cazyme_classes_order <- c("AA", "CBM", "CE", "GH", "GT", "PL")
 ## -----------------------------------------------------------------------------
 message("\n[5.1] Figure 6 - CAZyme classes")
 
+## The percentages printed on the bars are recomputed from the gene counts
+## rather than read from the pct column of the file, so that the figure can
+## never drift from the data. The values are identical to the stored ones
+## (43.4, 37.5, 7.7, 6.6, 4.1, 0.8). Each is correctly rounded; because five of
+## the six round up, they sum to 100.1 rather than 100.0.
 cazyme_classes <- read_csv(file.path(data_dir, "cazyme_classes.csv"),
                            show_col_types = FALSE) %>%
-  mutate(label = paste0(class, " (", name, ")")) %>%
+  mutate(pct   = round(genes / sum(genes) * 100, 1),
+         label = paste0(class, " (", name, ")")) %>%
   arrange(genes) %>%
   mutate(label     = factor(label, levels = label),
          highlight = if_else(class == "CE", "CE", "other"))
